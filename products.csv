@@ -1,0 +1,551 @@
+product_id,product_name,category,subcategory,brand,price,cost_price,discount_range,rating_average,rating_count,stock_quantity,product_launch_date,product_type,return_rate_baseline
+PROD10000,Sen Basic Staple,Grocery,Staples,Sen,220.0,173.88,0-15%,4.4,32,1422,2025-12-12,Premium,0.0118
+PROD10001,Gupta-Chandra Essential Men's Bottomwear,Fashion,Men's Bottomwear,Gupta-Chandra,4060.0,2375.5,10-25%,5.0,13,1595,2023-09-01,Budget,0.1678
+PROD10002,"Murty, Advanced Women's Casual",Footwear,Women's Casual,"Murty,",2800.0,1740.98,25-40%,4.2,139,732,2024-12-24,Premium,0.2193
+PROD10003,Madan-Kanda Signature Bedding,Home & Kitchen,Bedding,Madan-Kanda,5680.0,4330.67,15-30%,4.1,31,1181,2024-03-28,Premium,0.0689
+PROD10004,"Sami, Premium Home Decor",Home & Kitchen,Home Decor,"Sami,",370.0,250.98,25-40%,4.5,279,2597,2024-02-03,Standard,0.0664
+PROD10005,Bhatt Essential Skincare,Beauty,Skincare,Bhatt,250.0,152.61,5-20%,4.1,65,2225,2025-03-13,Budget,0.0484
+PROD10006,Sen Compact Cycling,Sports,Cycling,Sen,4790.0,3446.2,15-30%,4.0,113,1637,2025-08-10,Premium,0.0613
+PROD10007,Gara-Chad Ultra Women's Ethnic Wear,Fashion,Women's Ethnic Wear,Gara-Chad,450.0,268.83,20-35%,3.7,260,466,2023-01-03,Budget,0.1731
+PROD10008,Sabharwal-Kothari Signature Snack,Grocery,Snacks,Sabharwal-Kothari,90.0,78.75,0-15%,3.7,7,1276,2023-03-08,Budget,0.0106
+PROD10009,Kapoor Pro Men's Bottomwear,Fashion,Men's Bottomwear,Kapoor,570.0,352.4,20-35%,3.2,8,2160,2024-03-12,Standard,0.1405
+PROD10010,"Virk, Deluxe Home Decor",Home & Kitchen,Home Decor,"Virk,",870.0,621.59,25-40%,3.9,128,45,2024-09-27,Premium,0.0805
+PROD10011,Bhatt Smart Women's Casual,Footwear,Women's Casual,Bhatt,1170.0,704.39,15-30%,3.9,82,1402,2023-10-14,Budget,0.1683
+PROD10012,"Nair, Ultra Kitchen Appliance",Appliances,Kitchen Appliances,"Nair,",27550.0,21525.28,20-35%,3.9,18,2421,2024-06-03,Premium,0.1114
+PROD10013,Andra Smart Backpack,Bags,Backpacks,Andra,1060.0,712.79,0-15%,4.2,14,1917,2024-10-10,Standard,0.0962
+PROD10014,Handa Premium Packaged Food,Grocery,Packaged Food,Handa,50.0,43.43,25-40%,3.5,71,446,2023-02-22,Budget,0.0105
+PROD10015,"Nagy, Classic Storage",Furniture,Storage,"Nagy,",15690.0,12255.72,15-30%,3.5,116,80,2023-09-06,Budget,0.0734
+PROD10016,"Loke, Compact Fans & Cooler",Appliances,Fans & Coolers,"Loke,",1540.0,1275.17,0-15%,3.8,113,909,2025-09-27,Standard,0.0843
+PROD10017,"Chaudhry, Signature Academic",Books,Academic,"Chaudhry,",200.0,162.75,25-40%,3.1,274,1180,2023-06-14,Standard,0.0153
+PROD10018,Rai Premium Non-Fiction,Books,Non-Fiction,Rai,210.0,160.07,25-40%,4.3,222,1390,2024-10-06,Premium,0.0293
+PROD10019,Kala-Rattan Classic Dinnerware,Home & Kitchen,Dinnerware,Kala-Rattan,2910.0,2115.56,30-45%,3.4,241,1472,2024-03-14,Standard,0.0947
+PROD10020,Bhatti-Kakar Ultra Non-Fiction,Books,Non-Fiction,Bhatti-Kakar,220.0,164.01,25-40%,3.7,53,497,2025-10-02,Premium,0.0205
+PROD10021,Barad-Singhal Advanced Men's Bottomwear,Fashion,Men's Bottomwear,Barad-Singhal,950.0,595.38,20-35%,4.1,177,2877,2024-01-27,Standard,0.1332
+PROD10022,"Cherian, Smart Office Furniture",Furniture,Office Furniture,"Cherian,",15320.0,11414.49,30-45%,3.9,3,116,2024-01-11,Budget,0.0861
+PROD10023,"Prakash, Advanced Phone Case",Mobile Accessories,Phone Cases,"Prakash,",890.0,591.15,5-20%,4.2,134,2124,2025-05-01,Standard,0.0447
+PROD10024,Patla-Gaba Signature Haircare,Beauty,Haircare,Patla-Gaba,190.0,115.47,5-20%,3.9,132,881,2025-03-02,Exclusive,0.0561
+PROD10025,Kade-Sani Basic Snack,Grocery,Snacks,Kade-Sani,1500.0,1165.58,10-25%,3.1,66,717,2024-03-10,Standard,0.013
+PROD10026,"Cherian, Everyday Handbag",Bags,Handbags,"Cherian,",670.0,397.33,20-35%,3.4,29,186,2023-10-17,Premium,0.1363
+PROD10027,Mallick Advanced Power Bank,Mobile Accessories,Power Banks,Mallick,420.0,306.7,20-35%,3.7,7,1478,2023-07-04,Standard,0.0359
+PROD10028,Grewal Premium Makeup,Beauty,Makeup,Grewal,760.0,459.69,30-45%,4.5,16,1567,2024-05-29,Standard,0.0497
+PROD10029,"Sami, Smart Printer",Office Supplies,Printers,"Sami,",640.0,453.05,20-35%,3.6,3,186,2023-11-26,Budget,0.0264
+PROD10030,"Sen, Classic Smartwatche",Electronics,Smartwatches,"Sen,",3330.0,2734.52,5-20%,3.9,110,675,2025-05-03,Standard,0.1035
+PROD10031,Shah Basic Handbag,Bags,Handbags,Shah,3150.0,1944.49,0-15%,4.7,1323,1417,2024-04-24,Budget,0.1081
+PROD10032,Dara-Kota Advanced Academic,Books,Academic,Dara-Kota,1470.0,1075.81,10-25%,3.9,9,1911,2025-08-21,Standard,0.021
+PROD10033,"Kade, Advanced Women's Western Wear",Fashion,Women's Western Wear,"Kade,",4740.0,2775.36,30-45%,4.0,50,378,2023-04-16,Standard,0.1774
+PROD10034,Apte-Contractor Deluxe Smartwatche,Electronics,Smartwatches,Apte-Contractor,16910.0,15203.91,0-15%,3.5,42,1476,2024-07-05,Standard,0.1179
+PROD10035,Sankar Basic Supplement,Health & Wellness,Supplements,Sankar,1570.0,1138.82,25-40%,4.5,636,1858,2023-02-22,Standard,0.0243
+PROD10036,Goda Ultra Office Furniture,Furniture,Office Furniture,Goda,34380.0,26238.49,25-40%,4.6,47,2661,2023-11-05,Budget,0.1137
+PROD10037,Behl-Chanda Smart Kids Wear,Fashion,Kids Wear,Behl-Chanda,1240.0,733.25,0-15%,3.5,41,2039,2024-06-27,Premium,0.133
+PROD10038,Sidhu-Wadhwa Compact Pens & Pencil,Stationery,Pens & Pencils,Sidhu-Wadhwa,300.0,221.4,20-35%,4.2,142,1777,2025-09-04,Premium,0.0162
+PROD10039,"Nair, Premium Storage",Furniture,Storage,"Nair,",6680.0,5176.2,20-35%,4.7,10,2931,2025-06-03,Standard,0.1267
+PROD10040,Setty Advanced Staple,Grocery,Staples,Setty,1640.0,1283.26,20-35%,4.6,166,2230,2023-12-11,Standard,0.008
+PROD10041,Morar Signature Action Figure,Toys,Action Figures,Morar,2520.0,1626.33,25-40%,4.1,150,1408,2024-12-19,Standard,0.0939
+PROD10042,"Mistry, Ultra Skincare",Beauty,Skincare,"Mistry,",2680.0,1688.13,0-15%,3.9,210,1240,2023-02-14,Standard,0.0422
+PROD10043,Bajwa Compact Camera,Electronics,Cameras,Bajwa,4720.0,4328.07,5-20%,3.7,28,1112,2023-07-18,Standard,0.0895
+PROD10044,Keer Premium Men's Bottomwear,Fashion,Men's Bottomwear,Keer,1150.0,662.77,0-15%,3.8,9,324,2024-11-09,Premium,0.1199
+PROD10045,"Nagy, Deluxe Skincare",Beauty,Skincare,"Nagy,",880.0,537.86,5-20%,4.0,40,876,2024-02-11,Premium,0.0436
+PROD10046,"Virk, Classic Winter Wear",Fashion,Winter Wear,"Virk,",470.0,291.7,30-45%,3.8,34,1361,2023-08-27,Budget,0.1508
+PROD10047,"Ray, Pro Office Furniture",Furniture,Office Furniture,"Ray,",31540.0,24957.92,10-25%,4.4,13,1871,2023-03-18,Exclusive,0.148
+PROD10048,"Choudhury, Basic Cricket Gear",Sports,Cricket Gear,"Choudhury,",2060.0,1428.38,0-15%,3.4,63,323,2025-07-20,Exclusive,0.0564
+PROD10049,Handa Compact Tablet,Electronics,Tablets,Handa,26480.0,21314.29,0-15%,4.0,35,1806,2023-03-15,Premium,0.0581
+PROD10050,Boase-Narayanan Classic Women's Ethnic Wear,Fashion,Women's Ethnic Wear,Boase-Narayanan,1290.0,811.69,20-35%,3.3,72,2230,2024-10-26,Standard,0.1128
+PROD10051,Ramakrishnan Advanced Winter Wear,Fashion,Winter Wear,Ramakrishnan,4690.0,2623.08,0-15%,3.8,656,2313,2024-08-22,Standard,0.1472
+PROD10052,Setty Smart Makeup,Beauty,Makeup,Setty,1410.0,918.1,15-30%,4.5,67,1743,2023-04-04,Standard,0.0437
+PROD10053,Kala-Vaidya Compact Oral Care,Personal Care,Oral Care,Kala-Vaidya,1980.0,1342.07,25-40%,4.1,12,657,2024-03-10,Budget,0.0322
+PROD10054,Thaman-Sandhu Smart Kitchen Appliance,Appliances,Kitchen Appliances,Thaman-Sandhu,15730.0,13051.61,10-25%,3.9,18,2798,2025-07-21,Standard,0.0855
+PROD10055,Kaul Classic Smart Watche,Watches,Smart Watches,Kaul,17090.0,11961.31,20-35%,3.4,12,2861,2023-10-13,Premium,0.064
+PROD10056,"Sur, Essential Pet Accessorie",Pet Supplies,Pet Accessories,"Sur,",190.0,148.56,20-35%,4.7,18,2210,2023-12-01,Premium,0.0423
+PROD10057,"Solanki, Signature Cookware",Home & Kitchen,Cookware,"Solanki,",5660.0,4003.76,10-25%,4.6,67,1641,2025-05-19,Standard,0.0544
+PROD10058,"Konda, Basic Smartphone",Electronics,Smartphones,"Konda,",73700.0,63499.89,15-30%,3.7,65,2583,2025-12-26,Budget,0.0817
+PROD10059,Rai Compact Wallet,Bags,Wallets,Rai,4290.0,2626.98,15-30%,4.1,43,758,2023-04-01,Exclusive,0.1153
+PROD10060,Batta Advanced Cable,Mobile Accessories,Cables,Batta,310.0,209.79,15-30%,4.0,32,1099,2024-08-29,Standard,0.0712
+PROD10061,Varma-Nayak Pro Women's Western Wear,Fashion,Women's Western Wear,Varma-Nayak,1080.0,635.36,10-25%,4.3,11,37,2024-12-30,Standard,0.0973
+PROD10062,Acharya-Modi Signature Haircare,Beauty,Haircare,Acharya-Modi,1820.0,1230.56,30-45%,3.5,59,2912,2023-12-08,Standard,0.0357
+PROD10063,Dara-Kota Compact Smartwatche,Electronics,Smartwatches,Dara-Kota,28730.0,26386.95,15-30%,4.1,42,2114,2025-06-30,Standard,0.0874
+PROD10064,"Sampath, Basic Baby Gear",Baby Care,Baby Gear,"Sampath,",2830.0,2039.48,0-15%,3.4,129,42,2023-05-24,Premium,0.0644
+PROD10065,Behl-Chanda Advanced Yoga,Sports,Yoga,Behl-Chanda,7470.0,5430.6,20-35%,4.4,1,2394,2025-02-14,Premium,0.0708
+PROD10066,Pingle Everyday Winter Wear,Fashion,Winter Wear,Pingle,1640.0,896.24,20-35%,4.1,91,297,2023-03-07,Standard,0.2255
+PROD10067,Dutta-Chokshi Classic Formal Shoe,Footwear,Formal Shoes,Dutta-Chokshi,760.0,481.85,30-45%,4.3,280,329,2025-11-10,Standard,0.1904
+PROD10068,Amble Classic Snack,Grocery,Snacks,Amble,760.0,606.43,20-35%,4.2,8,1066,2023-04-02,Standard,0.0081
+PROD10069,"Bala, Signature Academic",Books,Academic,"Bala,",1320.0,989.34,30-45%,4.2,24,1221,2025-06-29,Budget,0.0123
+PROD10070,"Bhargava, Signature Kids Wear",Fashion,Kids Wear,"Bhargava,",1810.0,1111.75,20-35%,3.6,93,1101,2024-11-15,Premium,0.1526
+PROD10071,Kapoor Classic Laptop,Electronics,Laptops,Kapoor,10750.0,8724.31,0-15%,4.1,52,1177,2024-08-10,Standard,0.0541
+PROD10072,"Boase, Essential Tablet",Electronics,Tablets,"Boase,",15460.0,14101.87,20-35%,4.9,320,1554,2023-10-31,Budget,0.0786
+PROD10073,"Sami, Smart Car Accessorie",Automotive Accessories,Car Accessories,"Sami,",1360.0,976.79,30-45%,3.6,71,1971,2025-07-28,Standard,0.0594
+PROD10074,"More, Essential Supplement",Health & Wellness,Supplements,"More,",230.0,165.83,5-20%,4.2,9,320,2023-06-25,Standard,0.0208
+PROD10075,"Lanka, Essential Beverage",Grocery,Beverages,"Lanka,",70.0,57.46,30-45%,4.2,11,1169,2023-06-26,Premium,0.0116
+PROD10076,Dutta Basic Medical Device,Health & Wellness,Medical Devices,Dutta,680.0,441.43,20-35%,3.2,21,1036,2025-10-11,Premium,0.0281
+PROD10077,Gupta-Chandra Everyday Wallet,Bags,Wallets,Gupta-Chandra,1300.0,825.69,0-15%,3.8,83,891,2025-05-14,Exclusive,0.0922
+PROD10078,"Sunder, Classic Women's Western Wear",Fashion,Women's Western Wear,"Sunder,",790.0,427.92,15-30%,4.1,739,1686,2023-12-27,Standard,0.1405
+PROD10079,"Krish, Smart Cookware",Home & Kitchen,Cookware,"Krish,",240.0,181.59,15-30%,,30,2213,2024-09-07,Standard,0.0534
+PROD10080,"Sane, Everyday Women's Western Wear",Fashion,Women's Western Wear,"Sane,",610.0,330.03,5-20%,3.5,34,650,2023-02-08,Standard,0.1459
+PROD10081,Bhatti-Kakar Premium Fitness Equipment,Sports,Fitness Equipment,Bhatti-Kakar,460.0,309.69,5-20%,4.2,68,1907,2023-01-03,Premium,0.0703
+PROD10082,"Baral, Classic Bath & Body",Personal Care,Bath & Body,"Baral,",130.0,89.55,30-45%,3.8,1,2470,2025-12-08,Standard,0.0323
+PROD10083,Dave Essential Cable,Mobile Accessories,Cables,Dave,650.0,411.81,20-35%,4.2,27,1818,2023-08-12,Standard,0.06
+PROD10084,Sabharwal-Kothari Pro Kids Wear,Fashion,Kids Wear,Sabharwal-Kothari,2510.0,1389.86,15-30%,3.9,4,1078,2025-09-01,Budget,0.1048
+PROD10085,Khatri-Bhardwaj Deluxe Office Stationery,Stationery,Office Stationery,Khatri-Bhardwaj,870.0,646.04,10-25%,4.6,233,2550,2024-07-15,Standard,0.0213
+PROD10086,Sankar Classic Dairy,Grocery,Dairy,Sankar,80.0,69.81,25-40%,4.5,84,1557,2023-11-18,Budget,0.0104
+PROD10087,Varma-Nayak Classic Home Decor,Home & Kitchen,Home Decor,Varma-Nayak,7170.0,5359.01,5-20%,3.6,55,709,2023-12-17,Budget,0.0822
+PROD10088,Kala-Vaidya Premium Staple,Grocery,Staples,Kala-Vaidya,590.0,504.94,15-30%,3.7,61,820,2024-02-05,Budget,0.0112
+PROD10089,"Khanna, Pro Oral Care",Personal Care,Oral Care,"Khanna,",660.0,419.08,15-30%,3.7,97,989,2025-09-09,Standard,0.0302
+PROD10090,"Lanka, Everyday Office Stationery",Stationery,Office Stationery,"Lanka,",870.0,678.25,25-40%,3.9,6,2100,2023-05-30,Premium,0.0212
+PROD10091,Behl-Chanda Premium Women's Ethnic Wear,Fashion,Women's Ethnic Wear,Behl-Chanda,1760.0,1068.53,5-20%,2.8,25,2293,2023-05-07,Standard,0.093
+PROD10092,"Mittal, Premium Snack",Grocery,Snacks,"Mittal,",920.0,762.38,0-15%,3.3,361,2994,2024-12-19,Standard,0.0122
+PROD10093,Handa Everyday Office Stationery,Stationery,Office Stationery,Handa,730.0,556.84,20-35%,3.4,31,597,2024-08-30,Standard,0.0226
+PROD10094,Morar Basic Art Supplie,Stationery,Art Supplies,Morar,490.0,342.39,10-25%,3.6,65,857,2025-07-18,Premium,0.0146
+PROD10095,"Lanka, Pro Packaged Food",Grocery,Packaged Food,"Lanka,",880.0,735.79,15-30%,3.3,66,1644,2025-07-13,Standard,0.0102
+PROD10096,Gala Essential Makeup,Beauty,Makeup,Gala,300.0,179.46,25-40%,3.8,9,1666,2023-03-30,Standard,0.0576
+PROD10097,"Ahluwalia, Basic Analog Watche",Watches,Analog Watches,"Ahluwalia,",6420.0,4169.25,0-15%,4.0,20,2924,2023-01-14,Standard,0.1027
+PROD10098,"Boase, Basic Grooming",Personal Care,Grooming,"Boase,",150.0,100.4,30-45%,4.2,184,1344,2023-02-19,Standard,0.0332
+PROD10099,"Memon, Premium Office Equipment",Office Supplies,Office Equipment,"Memon,",290.0,227.68,20-35%,4.4,140,2625,2025-08-11,Exclusive,0.0321
+PROD10100,Sarin Compact Fans & Cooler,Appliances,Fans & Coolers,Sarin,14930.0,11794.05,30-45%,3.8,94,2154,2025-01-05,Standard,0.0668
+PROD10101,"Memon, Compact Action Figure",Toys,Action Figures,"Memon,",780.0,559.66,25-40%,4.9,1489,648,2024-02-13,Standard,0.0937
+PROD10102,Brar Classic Smartphone,Electronics,Smartphones,Brar,15260.0,12126.44,5-20%,3.7,54,2250,2025-02-24,Standard,0.0989
+PROD10103,Rai Advanced Car Care,Automotive Accessories,Car Care,Rai,4990.0,3548.27,0-15%,3.4,3,489,2023-11-03,Standard,0.0701
+PROD10104,Nath Classic Women's Casual,Footwear,Women's Casual,Nath,1530.0,985.26,15-30%,4.1,76,2987,2023-12-22,Premium,0.2679
+PROD10105,"Ahluwalia, Signature Action Figure",Toys,Action Figures,"Ahluwalia,",360.0,238.18,0-15%,3.6,20,2698,2023-05-01,Standard,0.0791
+PROD10106,"Loke, Ultra Staple",Grocery,Staples,"Loke,",1480.0,1181.99,5-20%,4.6,81,756,2025-07-27,Exclusive,0.0092
+PROD10107,Nori-Chopra Essential Travel Bag,Bags,Travel Bags,Nori-Chopra,1500.0,993.7,25-40%,4.0,47,1112,2024-11-28,Standard,0.0945
+PROD10108,"Solanki, Deluxe Office Furniture",Furniture,Office Furniture,"Solanki,",27560.0,21787.16,15-30%,3.6,65,1042,2024-10-21,Budget,0.1065
+PROD10109,Dutta Advanced Soft Toy,Toys,Soft Toys,Dutta,540.0,370.01,15-30%,,20,2254,2023-12-09,Premium,0.0829
+PROD10110,Iyengar Smart Phone Case,Mobile Accessories,Phone Cases,Iyengar,210.0,151.06,5-20%,4.3,44,532,2023-02-14,Standard,0.0595
+PROD10111,"Chaudry, Everyday Staple",Grocery,Staples,"Chaudry,",190.0,148.58,5-20%,4.4,139,1925,2024-12-30,Standard,0.0082
+PROD10112,Soman Classic Comic,Books,Comics,Soman,1240.0,988.71,30-45%,4.6,1554,959,2024-11-17,Standard,0.0189
+PROD10113,"Nagy, Essential Smartphone",Electronics,Smartphones,"Nagy,",10530.0,9353.67,0-15%,4.1,14,1810,2024-11-04,Budget,0.0817
+PROD10114,Handa Pro Filing & Storage,Office Supplies,Filing & Storage,Handa,500.0,382.41,0-15%,3.8,22,1497,2025-05-23,Budget,0.0236
+PROD10115,Rai Essential Travel Bag,Bags,Travel Bags,Rai,1410.0,896.0,25-40%,3.6,69,1597,2023-08-03,Standard,0.1181
+PROD10116,Chander Pro Headphone,Electronics,Headphones,Chander,3470.0,2876.28,15-30%,4.6,57,368,2025-08-20,Premium,0.0697
+PROD10117,Gara-Chad Basic Home Decor,Home & Kitchen,Home Decor,Gara-Chad,1090.0,816.74,20-35%,4.0,185,1679,2023-09-17,Standard,0.0568
+PROD10118,Acharya-Modi Premium Ayurveda,Health & Wellness,Ayurveda,Acharya-Modi,910.0,601.23,5-20%,5.0,833,980,2024-10-07,Budget,0.0303
+PROD10119,Ramakrishnan Advanced Formal Shoe,Footwear,Formal Shoes,Ramakrishnan,2630.0,1787.64,30-45%,5.0,16,2200,2024-05-16,Budget,0.21
+PROD10120,Bhatt-Rajan Deluxe Kitchen Appliance,Appliances,Kitchen Appliances,Bhatt-Rajan,9060.0,7376.59,15-30%,3.8,12,877,2023-04-23,Standard,0.1041
+PROD10121,Shanker-Dhar Basic Charger,Mobile Accessories,Chargers,Shanker-Dhar,540.0,377.36,20-35%,3.6,10,1460,2024-11-20,Standard,0.0409
+PROD10122,Setty Deluxe Bedding,Home & Kitchen,Bedding,Setty,8720.0,6346.99,30-45%,4.2,103,2532,2024-02-17,Budget,0.0837
+PROD10123,"Prakash, Basic Office Equipment",Office Supplies,Office Equipment,"Prakash,",1790.0,1465.26,5-20%,4.4,59,571,2024-03-24,Premium,0.0334
+PROD10124,"Iyer, Advanced Baby Food",Baby Care,Baby Food,"Iyer,",280.0,210.42,15-30%,4.0,387,2122,2023-03-21,Standard,0.0442
+PROD10125,Handa Compact Winter Wear,Fashion,Winter Wear,Handa,380.0,213.75,20-35%,3.9,34,1837,2024-12-31,Standard,0.1631
+PROD10126,Roy-Sibal Premium Office Stationery,Stationery,Office Stationery,Roy-Sibal,910.0,628.39,10-25%,4.2,143,1934,2024-01-09,Budget,0.0222
+PROD10127,Morar Deluxe Men's Casual,Footwear,Men's Casual,Morar,2510.0,1481.68,30-45%,4.3,45,1692,2025-08-12,Premium,0.1953
+PROD10128,"Choudhury, Smart Smartphone",Electronics,Smartphones,"Choudhury,",51760.0,43839.61,25-40%,3.3,12,2908,2024-11-14,Standard,0.0847
+PROD10129,Handa Pro Women's Casual,Footwear,Women's Casual,Handa,3010.0,2033.72,25-40%,4.0,287,941,2024-06-12,Standard,0.1833
+PROD10130,Gola Compact Winter Wear,Fashion,Winter Wear,Gola,1000.0,589.36,15-30%,4.1,18,2479,2025-05-21,Budget,0.1912
+PROD10131,Parmar Compact Winter Wear,Fashion,Winter Wear,Parmar,1660.0,1030.68,20-35%,4.5,95,159,2023-10-26,Budget,0.1586
+PROD10132,Dewan-Koshy Classic Diaper,Baby Care,Diapers,Dewan-Koshy,530.0,366.17,20-35%,3.5,42,646,2025-02-16,Standard,0.0449
+PROD10133,Memon Compact Electronic Instrument,Musical Instruments,Electronic Instruments,Memon,12300.0,9238.44,20-35%,3.8,173,784,2023-10-23,Standard,0.0899
+PROD10134,Palla Signature Charger,Mobile Accessories,Chargers,Palla,390.0,246.59,25-40%,4.7,104,174,2025-11-09,Premium,0.0435
+PROD10135,"Yadav, Ultra Electronic Instrument",Musical Instruments,Electronic Instruments,"Yadav,",960.0,702.21,0-15%,3.5,159,1168,2024-12-23,Standard,0.0607
+PROD10136,Chanda Deluxe Outdoor Sport,Sports,Outdoor Sports,Chanda,2160.0,1418.67,0-15%,4.8,23,170,2023-05-02,Standard,0.0601
+PROD10137,Chanda Smart Beverage,Grocery,Beverages,Chanda,300.0,259.36,25-40%,4.2,32,580,2023-04-23,Standard,0.0088
+PROD10138,Sankar Advanced Women's Ethnic Wear,Fashion,Women's Ethnic Wear,Sankar,1200.0,670.03,10-25%,3.9,35,2926,2025-11-16,Standard,0.1454
+PROD10139,"Mital, Compact Supplement",Health & Wellness,Supplements,"Mital,",400.0,297.61,0-15%,3.8,8,1223,2025-11-22,Standard,0.0336
+PROD10140,Setty Essential Home Decor,Home & Kitchen,Home Decor,Setty,2600.0,1890.89,20-35%,3.4,13,1078,2024-08-25,Premium,0.0662
+PROD10141,Choudhury Ultra Makeup,Beauty,Makeup,Choudhury,930.0,562.86,15-30%,4.3,53,2279,2023-03-13,Standard,0.0447
+PROD10142,Choudhury Basic Men's Topwear,Fashion,Men's Topwear,Choudhury,1400.0,778.06,15-30%,4.8,107,491,2023-02-11,Standard,0.1506
+PROD10143,"Sane, Advanced Storage & Container",Home & Kitchen,Storage & Containers,"Sane,",980.0,700.27,15-30%,4.4,8,722,2024-12-12,Standard,0.073
+PROD10144,"Sen, Pro Makeup",Beauty,Makeup,"Sen,",1380.0,847.98,10-25%,4.5,115,2541,2023-12-29,Premium,0.0632
+PROD10145,"Mittal, Premium Living Room",Furniture,Living Room,"Mittal,",4460.0,3540.87,10-25%,4.7,32,175,2024-11-08,Budget,0.1101
+PROD10146,Rastogi Essential Speaker,Electronics,Speakers,Rastogi,4620.0,3827.91,10-25%,3.6,43,1552,2024-11-04,Budget,0.1001
+PROD10147,Iyengar Smart Women's Casual,Footwear,Women's Casual,Iyengar,2290.0,1339.67,0-15%,3.6,41,971,2024-07-11,Standard,0.1457
+PROD10148,"Bhargava, Essential Men's Bottomwear",Fashion,Men's Bottomwear,"Bhargava,",1030.0,620.45,5-20%,4.0,185,2194,2025-02-18,Standard,0.131
+PROD10149,Dave Ultra Cookware,Home & Kitchen,Cookware,Dave,390.0,276.85,0-15%,4.5,43,937,2025-06-23,Budget,0.0541
+PROD10150,"Chaudhari, Classic Phone Case",Mobile Accessories,Phone Cases,"Chaudhari,",260.0,163.97,25-40%,4.4,37,2251,2023-03-05,Standard,0.0628
+PROD10151,Randhawa-Deep Advanced Men's Bottomwear,Fashion,Men's Bottomwear,Randhawa-Deep,1730.0,1084.01,5-20%,4.4,14,1878,2023-01-07,Standard,0.1725
+PROD10152,Behl-Chanda Advanced Camera,Electronics,Cameras,Behl-Chanda,4110.0,3753.76,0-15%,3.6,684,1952,2025-02-22,Standard,0.1029
+PROD10153,"Nagy, Smart Speaker",Electronics,Speakers,"Nagy,",11880.0,9502.1,10-25%,3.7,294,1032,2023-01-03,Standard,0.065
+PROD10154,"Yohannan, Deluxe Educational Toy",Toys,Educational Toys,"Yohannan,",2100.0,1374.95,25-40%,3.9,15,522,2024-09-10,Budget,0.0539
+PROD10155,"Ahluwalia, Deluxe Dinnerware",Home & Kitchen,Dinnerware,"Ahluwalia,",1160.0,882.86,5-20%,4.1,245,2800,2024-02-12,Standard,0.02
+PROD10156,Shanker-Dhar Signature Staple,Grocery,Staples,Shanker-Dhar,90.0,76.08,30-45%,3.8,1,1000,2023-02-21,Standard,0.009
+PROD10157,Murthy Basic Ayurveda,Health & Wellness,Ayurveda,Murthy,1880.0,1240.73,30-45%,4.4,297,1155,2024-05-17,Standard,0.0358
+PROD10158,"Ray, Signature Board Game",Toys,Board Games,"Ray,",560.0,352.81,30-45%,4.2,52,541,2025-07-29,Exclusive,0.0359
+PROD10159,"Yohannan, Ultra Screen Guard",Mobile Accessories,Screen Guards,"Yohannan,",680.0,454.06,30-45%,4.0,2,2230,2024-02-01,Budget,0.0517
+PROD10160,"Bhagat, Premium Action Figure",Toys,Action Figures,"Bhagat,",1460.0,950.68,10-25%,3.8,78,275,2024-04-15,Premium,0.0545
+PROD10161,"Choudhury, Compact Wallet",Bags,Wallets,"Choudhury,",4380.0,2650.59,30-45%,4.1,92,1721,2024-05-26,Budget,0.1018
+PROD10162,"Nagy, Advanced Speaker",Electronics,Speakers,"Nagy,",3620.0,2909.06,30-45%,3.6,44,2490,2024-07-27,Standard,0.0597
+PROD10163,Gandhi-Lanka Smart Pet Grooming,Pet Supplies,Pet Grooming,Gandhi-Lanka,2650.0,2073.53,5-20%,4.4,168,1155,2024-07-16,Premium,0.0369
+PROD10164,Rai Advanced Power Bank,Mobile Accessories,Power Banks,Rai,210.0,142.03,20-35%,5.0,159,154,2023-02-20,Standard,0.0852
+PROD10165,"Bhat, Advanced Phone Case",Mobile Accessories,Phone Cases,"Bhat,",340.0,247.81,20-35%,3.7,43,2279,2025-06-11,Standard,0.0734
+PROD10166,Upadhyay Basic Speaker,Electronics,Speakers,Upadhyay,75970.0,66463.39,30-45%,4.8,18,1386,2024-12-04,Exclusive,0.0947
+PROD10167,Boase-Narayanan Deluxe Phone Case,Mobile Accessories,Phone Cases,Boase-Narayanan,1650.0,1190.83,15-30%,4.5,137,1515,2024-03-12,Premium,0.0807
+PROD10168,Grewal Ultra Soft Toy,Toys,Soft Toys,Grewal,2490.0,1694.9,20-35%,3.6,84,352,2025-02-20,Standard,0.0946
+PROD10169,Gala Compact Winter Wear,Fashion,Winter Wear,Gala,330.0,199.0,10-25%,4.2,103,1329,2025-06-27,Standard,0.1683
+PROD10170,Dave Ultra Dinnerware,Home & Kitchen,Dinnerware,Dave,3880.0,2783.0,30-45%,3.6,15,2841,2024-10-06,Standard,0.0711
+PROD10171,Naik Signature Sandals & Flip Flop,Footwear,Sandals & Flip Flops,Naik,1160.0,685.67,10-25%,4.3,39,252,2023-09-25,Premium,0.1387
+PROD10172,Mangal-Sampath Ultra Packaged Food,Grocery,Packaged Food,Mangal-Sampath,490.0,383.06,20-35%,4.6,211,2380,2024-12-11,Standard,0.0101
+PROD10173,"Choudhury, Deluxe Digital Watche",Watches,Digital Watches,"Choudhury,",6210.0,3940.84,25-40%,5.0,48,2971,2023-01-05,Budget,0.0466
+PROD10174,"Prakash, Ultra Storage & Container",Home & Kitchen,Storage & Containers,"Prakash,",4200.0,3074.49,0-15%,4.3,166,1314,2025-02-02,Premium,0.1016
+PROD10175,"Dugar, Everyday Formal Shoe",Footwear,Formal Shoes,"Dugar,",670.0,410.14,25-40%,4.5,92,2630,2023-11-25,Standard,0.2056
+PROD10176,Gola Advanced Smartwatche,Electronics,Smartwatches,Gola,7740.0,6891.69,10-25%,4.4,377,997,2024-06-03,Premium,0.0872
+PROD10177,"Murthy, Everyday Dinnerware",Home & Kitchen,Dinnerware,"Murthy,",6330.0,4526.62,10-25%,3.5,215,2627,2024-05-25,Premium,0.0748
+PROD10178,Zacharia Advanced Car Care,Automotive Accessories,Car Care,Zacharia,1220.0,952.87,0-15%,5.0,21,239,2024-02-02,Standard,0.0432
+PROD10179,Chander Compact Smartphone,Electronics,Smartphones,Chander,3910.0,3457.34,15-30%,5.0,114,1540,2025-03-16,Exclusive,0.076
+PROD10180,"Nair, Essential Air Conditioner",Appliances,Air Conditioners,"Nair,",7760.0,6900.5,15-30%,3.8,99,939,2023-09-14,Standard,0.1147
+PROD10181,Amble Essential Yoga,Sports,Yoga,Amble,1600.0,1154.46,25-40%,4.2,175,282,2024-05-24,Standard,0.0382
+PROD10182,Sen Premium Laptop,Electronics,Laptops,Sen,27610.0,25040.67,30-45%,3.3,58,1003,2024-04-23,Standard,0.0568
+PROD10183,Boase-Mallick Signature Action Figure,Toys,Action Figures,Boase-Mallick,850.0,544.57,20-35%,4.5,21,2609,2023-08-10,Standard,0.0862
+PROD10184,Barad-Singhal Ultra Pet Food,Pet Supplies,Pet Food,Barad-Singhal,1160.0,819.41,15-30%,4.2,9,394,2023-04-03,Budget,0.0378
+PROD10185,"Mistry, Everyday Makeup",Beauty,Makeup,"Mistry,",550.0,331.69,20-35%,3.7,34,1976,2025-01-30,Standard,0.0444
+PROD10186,Gupta-Chandra Pro Storage,Furniture,Storage,Gupta-Chandra,7450.0,5989.26,30-45%,3.5,47,2511,2023-04-22,Standard,0.1119
+PROD10187,Kapoor Classic Grooming,Personal Care,Grooming,Kapoor,130.0,87.21,5-20%,4.8,255,2770,2023-12-11,Standard,0.0383
+PROD10188,Karpe Pro Soft Toy,Toys,Soft Toys,Karpe,3440.0,2216.61,0-15%,4.7,5,38,2025-09-21,Standard,0.0862
+PROD10189,Merchant-Datta Everyday Winter Wear,Fashion,Winter Wear,Merchant-Datta,1290.0,725.23,10-25%,4.4,23,2027,2025-08-09,Standard,0.1939
+PROD10190,Kar-Issac Essential Staple,Grocery,Staples,Kar-Issac,320.0,254.06,15-30%,4.1,18,2368,2024-08-28,Standard,0.0093
+PROD10191,Barad-Singhal Pro Living Room,Furniture,Living Room,Barad-Singhal,4310.0,3335.31,10-25%,3.5,5,2539,2024-05-02,Premium,0.0998
+PROD10192,Acharya-Modi Compact Ayurveda,Health & Wellness,Ayurveda,Acharya-Modi,590.0,440.91,0-15%,4.1,260,1808,2025-11-17,Standard,0.0304
+PROD10193,Gola Signature Board Game,Toys,Board Games,Gola,650.0,415.97,25-40%,4.3,124,1900,2025-06-14,Budget,0.0803
+PROD10194,Boase-Narayanan Ultra Speaker,Electronics,Speakers,Boase-Narayanan,8130.0,6833.41,5-20%,3.6,36,1067,2023-04-30,Standard,0.0442
+PROD10195,"Lall, Basic Fragrance",Beauty,Fragrances,"Lall,",1130.0,688.12,25-40%,,10,265,2025-03-03,Premium,0.0414
+PROD10196,Dutta-Chokshi Deluxe Fans & Cooler,Appliances,Fans & Coolers,Dutta-Chokshi,25660.0,21006.86,30-45%,4.2,56,1874,2025-01-30,Standard,0.0624
+PROD10197,Borra Compact Action Figure,Toys,Action Figures,Borra,2970.0,2112.72,5-20%,4.0,2,909,2023-03-21,Standard,0.1018
+PROD10198,"Solanki, Deluxe Dairy",Grocery,Dairy,"Solanki,",380.0,327.78,0-15%,4.4,54,2585,2025-11-05,Premium,0.0066
+PROD10199,Pant-Kadakia Basic Soft Toy,Toys,Soft Toys,Pant-Kadakia,510.0,374.76,0-15%,4.2,57,1874,2025-09-15,Premium,0.0858
+PROD10200,"Khanna, Deluxe Sports Shoe",Footwear,Sports Shoes,"Khanna,",1960.0,1209.22,10-25%,3.7,24,2770,2023-07-07,Budget,0.1367
+PROD10201,Sood Compact Headphone,Electronics,Headphones,Sood,6830.0,5916.96,15-30%,3.9,34,1720,2025-07-05,Exclusive,0.0733
+PROD10202,Sidhu-Wadhwa Pro Men's Topwear,Fashion,Men's Topwear,Sidhu-Wadhwa,2300.0,1367.0,10-25%,3.6,125,698,2023-07-14,Budget,0.1497
+PROD10203,"Mistry, Basic Large Appliance",Appliances,Large Appliances,"Mistry,",12420.0,10704.19,0-15%,4.1,1266,2735,2024-10-26,Premium,0.0943
+PROD10204,Dara-Kota Classic Snack,Grocery,Snacks,Dara-Kota,520.0,449.59,30-45%,4.0,17,1538,2024-01-11,Standard,0.0083
+PROD10205,"Lala, Smart Children's Book",Books,Children's Books,"Lala,",150.0,112.55,5-20%,3.4,131,2498,2023-09-22,Standard,0.0191
+PROD10206,Bajwa Ultra Grooming,Personal Care,Grooming,Bajwa,970.0,657.35,25-40%,4.8,3,2652,2024-08-20,Standard,0.031
+PROD10207,"Iyer, Ultra Men's Topwear",Fashion,Men's Topwear,"Iyer,",930.0,511.68,20-35%,4.1,141,620,2023-05-10,Standard,0.1845
+PROD10208,Goda Basic Children's Book,Books,Children's Books,Goda,1050.0,859.16,5-20%,2.9,19,758,2024-03-06,Standard,0.0106
+PROD10209,Kohli-Divan Ultra Backpack,Bags,Backpacks,Kohli-Divan,610.0,369.04,15-30%,3.8,139,2666,2025-03-19,Premium,0.1356
+PROD10210,Kapoor Smart Power Bank,Mobile Accessories,Power Banks,Kapoor,610.0,430.38,30-45%,4.3,293,1846,2025-09-20,Exclusive,0.0494
+PROD10211,D’Alia-Chhabra Ultra Storage & Container,Home & Kitchen,Storage & Containers,D’Alia-Chhabra,480.0,362.83,25-40%,4.1,512,1632,2024-07-29,Standard,0.078
+PROD10212,Gara-Chad Signature Electronic Instrument,Musical Instruments,Electronic Instruments,Gara-Chad,8230.0,6502.16,25-40%,4.1,19,2654,2024-06-03,Budget,0.0707
+PROD10213,"Lanka, Essential Cable",Mobile Accessories,Cables,"Lanka,",340.0,224.87,15-30%,4.5,10,1474,2023-11-15,Standard,0.0777
+PROD10214,"Ray, Everyday Yoga",Sports,Yoga,"Ray,",380.0,254.23,0-15%,4.6,63,2852,2023-08-02,Premium,0.0498
+PROD10215,D’Alia-Chhabra Smart Men's Topwear,Fashion,Men's Topwear,D’Alia-Chhabra,4460.0,2799.51,0-15%,3.7,42,2849,2025-02-14,Standard,0.1183
+PROD10216,Nath Basic Winter Wear,Fashion,Winter Wear,Nath,390.0,216.4,5-20%,3.7,236,2188,2025-11-06,Standard,0.1423
+PROD10217,Bajwa Pro Snack,Grocery,Snacks,Bajwa,180.0,145.57,0-15%,3.2,54,368,2023-12-16,Standard,0.0086
+PROD10218,Kade-Sani Premium Comic,Books,Comics,Kade-Sani,590.0,455.21,30-45%,3.9,112,1214,2024-03-14,Standard,0.014
+PROD10219,Shan Signature Women's Western Wear,Fashion,Women's Western Wear,Shan,400.0,239.7,25-40%,4.6,14,434,2023-01-20,Premium,0.1566
+PROD10220,"Konda, Advanced Men's Casual",Footwear,Men's Casual,"Konda,",1570.0,1011.14,20-35%,3.8,46,2796,2025-06-29,Exclusive,0.2031
+PROD10221,Bhatt-Rajan Everyday Fragrance,Beauty,Fragrances,Bhatt-Rajan,740.0,497.69,30-45%,4.1,83,1702,2025-05-22,Standard,0.048
+PROD10222,"Lalla, Deluxe Women's Ethnic Wear",Fashion,Women's Ethnic Wear,"Lalla,",370.0,223.73,30-45%,3.4,10,1465,2024-03-21,Premium,0.1784
+PROD10223,Grewal Essential Bath & Body,Personal Care,Bath & Body,Grewal,230.0,160.88,30-45%,3.7,16,1148,2024-12-12,Standard,0.0349
+PROD10224,Grewal Smart Power Bank,Mobile Accessories,Power Banks,Grewal,1200.0,799.93,0-15%,3.2,55,2422,2023-09-12,Standard,0.0608
+PROD10225,"Chaudhari, Ultra Fragrance",Beauty,Fragrances,"Chaudhari,",220.0,140.98,0-15%,3.8,305,473,2024-07-17,Premium,0.0689
+PROD10226,"Loke, Everyday Bath & Body",Personal Care,Bath & Body,"Loke,",290.0,186.09,20-35%,4.1,125,1553,2023-05-05,Budget,0.0233
+PROD10227,Kala-Vaidya Premium Men's Casual,Footwear,Men's Casual,Kala-Vaidya,4690.0,3031.7,30-45%,4.3,21,1482,2025-12-27,Standard,0.2347
+PROD10228,Amble Advanced Art Supplie,Stationery,Art Supplies,Amble,840.0,574.73,10-25%,4.5,136,533,2025-05-17,Standard,0.0254
+PROD10229,Chanda Premium Staple,Grocery,Staples,Chanda,1770.0,1498.43,15-30%,3.9,12,42,2023-10-16,Standard,0.0139
+PROD10230,"Sampath, Premium Snack",Grocery,Snacks,"Sampath,",100.0,86.83,10-25%,3.5,163,2122,2024-07-25,Standard,0.0134
+PROD10231,Setty Essential Formal Shoe,Footwear,Formal Shoes,Setty,5470.0,3233.02,0-15%,3.9,1018,2526,2023-10-11,Standard,0.2027
+PROD10232,Boase-Mallick Advanced Cable,Mobile Accessories,Cables,Boase-Mallick,1420.0,911.26,25-40%,3.9,8,56,2025-03-07,Budget,0.0508
+PROD10233,Soman Essential Cookware,Home & Kitchen,Cookware,Soman,3440.0,2676.46,5-20%,4.3,170,1559,2025-05-01,Standard,0.0772
+PROD10234,"Bhagat, Smart Bath & Body",Personal Care,Bath & Body,"Bhagat,",220.0,151.9,10-25%,4.0,34,45,2023-04-20,Exclusive,0.0323
+PROD10235,"Yohannan, Pro String Instrument",Musical Instruments,String Instruments,"Yohannan,",1480.0,1066.02,10-25%,3.9,31,1600,2024-09-19,Budget,0.076
+PROD10236,Shanker-Dhar Signature Headphone,Electronics,Headphones,Shanker-Dhar,7460.0,6152.68,5-20%,3.8,1101,2382,2025-12-03,Premium,0.0593
+PROD10237,Kalla-Bhardwaj Signature Educational Toy,Toys,Educational Toys,Kalla-Bhardwaj,1200.0,866.01,30-45%,4.0,54,2476,2024-04-08,Premium,0.0931
+PROD10238,"Kade, Basic Dairy",Grocery,Dairy,"Kade,",1360.0,1122.04,20-35%,3.5,35,749,2025-02-16,Standard,0.0103
+PROD10239,Pant-Kadakia Signature Handbag,Bags,Handbags,Pant-Kadakia,1870.0,1266.86,5-20%,4.0,98,2580,2023-01-09,Standard,0.0939
+PROD10240,Gupta-Chandra Classic Filing & Storage,Office Supplies,Filing & Storage,Gupta-Chandra,240.0,186.12,10-25%,3.4,22,129,2024-10-26,Exclusive,0.0319
+PROD10241,Thaman-Sandhu Classic Phone Case,Mobile Accessories,Phone Cases,Thaman-Sandhu,160.0,111.38,5-20%,3.6,4,2369,2023-02-23,Standard,0.0494
+PROD10242,Murthy Compact Educational Toy,Toys,Educational Toys,Murthy,1230.0,796.04,30-45%,3.9,123,281,2023-07-14,Standard,0.0998
+PROD10243,Palla Classic Power Bank,Mobile Accessories,Power Banks,Palla,440.0,303.71,15-30%,4.8,3,2429,2025-03-18,Standard,0.0731
+PROD10244,"Virk, Premium Grooming",Personal Care,Grooming,"Virk,",150.0,97.82,30-45%,4.2,35,2371,2023-12-20,Standard,0.0268
+PROD10245,"Saraf, Classic Ayurveda",Health & Wellness,Ayurveda,"Saraf,",1130.0,795.05,30-45%,4.5,35,2139,2025-01-28,Standard,0.0285
+PROD10246,"Chaudhry, Advanced Smartwatche",Electronics,Smartwatches,"Chaudhry,",66050.0,56667.83,25-40%,3.7,1120,2867,2025-10-21,Premium,0.0901
+PROD10247,Setty Ultra Baby Food,Baby Care,Baby Food,Setty,370.0,281.67,25-40%,4.4,225,2612,2023-11-02,Standard,0.0522
+PROD10248,Salvi Advanced Dinnerware,Home & Kitchen,Dinnerware,Salvi,230.0,167.76,5-20%,4.1,50,2334,2025-04-27,Premium,0.0712
+PROD10249,"Nagy, Everyday Headphone",Electronics,Headphones,"Nagy,",19840.0,16490.64,15-30%,3.8,46,2092,2025-06-21,Standard,0.0775
+PROD10250,"Ray, Basic Women's Western Wear",Fashion,Women's Western Wear,"Ray,",800.0,481.15,0-15%,4.0,52,793,2024-04-12,Standard,0.1576
+PROD10251,"Dugar, Essential Travel Bag",Bags,Travel Bags,"Dugar,",2800.0,1756.29,10-25%,3.6,39,2025,2025-09-11,Budget,0.1183
+PROD10252,Madan-Kanda Deluxe Speaker,Electronics,Speakers,Madan-Kanda,14080.0,12218.96,15-30%,3.9,71,1129,2025-05-22,Standard,0.0824
+PROD10253,Gupta-Chandra Everyday Children's Book,Books,Children's Books,Gupta-Chandra,420.0,310.03,20-35%,4.1,94,2781,2025-11-23,Standard,0.0214
+PROD10254,"Mittal, Smart Screen Guard",Mobile Accessories,Screen Guards,"Mittal,",620.0,452.73,10-25%,4.2,93,692,2025-08-07,Standard,0.0459
+PROD10255,Vaidya-D’Alia Smart Fitness Equipment,Sports,Fitness Equipment,Vaidya-D’Alia,570.0,375.87,0-15%,4.3,576,1527,2024-03-12,Exclusive,0.0494
+PROD10256,"Lanka, Essential Laptop",Electronics,Laptops,"Lanka,",6130.0,5060.14,25-40%,4.7,20,2457,2023-09-09,Standard,0.0869
+PROD10257,Nori-Chopra Smart Headphone,Electronics,Headphones,Nori-Chopra,46260.0,40247.36,25-40%,3.9,48,125,2023-04-08,Standard,0.0598
+PROD10258,Wali-Nadig Basic Bath & Body,Personal Care,Bath & Body,Wali-Nadig,1500.0,986.76,15-30%,4.3,464,648,2023-12-14,Standard,0.0428
+PROD10259,Kar-Issac Premium Storage & Container,Home & Kitchen,Storage & Containers,Kar-Issac,7310.0,5661.03,5-20%,4.0,17,800,2024-02-17,Exclusive,0.0667
+PROD10260,"Sunder, Classic Bedding",Home & Kitchen,Bedding,"Sunder,",200.0,141.4,20-35%,4.5,16,285,2024-10-12,Standard,0.058
+PROD10261,"Lala, Everyday Pens & Pencil",Stationery,Pens & Pencils,"Lala,",620.0,442.92,30-45%,4.4,74,1811,2023-06-27,Standard,0.0246
+PROD10262,Boase-Mallick Advanced Action Figure,Toys,Action Figures,Boase-Mallick,530.0,346.85,20-35%,3.9,118,961,2023-01-28,Standard,0.0898
+PROD10263,Sabharwal-Kothari Premium Wallet,Bags,Wallets,Sabharwal-Kothari,1970.0,1259.59,20-35%,4.1,45,1569,2025-04-19,Budget,0.1052
+PROD10264,Gala Essential Pet Food,Pet Supplies,Pet Food,Gala,770.0,571.99,25-40%,4.3,74,1286,2024-01-06,Premium,0.0496
+PROD10265,Gupta-Chandra Deluxe Sandals & Flip Flop,Footwear,Sandals & Flip Flops,Gupta-Chandra,1670.0,1108.35,30-45%,3.9,20,1996,2023-06-26,Standard,0.1541
+PROD10266,Palla Everyday Packaged Food,Grocery,Packaged Food,Palla,50.0,40.83,10-25%,3.7,137,93,2024-07-06,Premium,0.0076
+PROD10267,Morar Basic Art Supplie,Stationery,Art Supplies,Morar,1000.0,713.76,25-40%,4.5,204,712,2024-07-02,Standard,0.0264
+PROD10268,"Bir, Smart Screen Guard",Mobile Accessories,Screen Guards,"Bir,",1170.0,847.03,10-25%,4.1,172,1200,2025-04-19,Premium,0.0447
+PROD10269,Barad-Singhal Deluxe Grooming,Personal Care,Grooming,Barad-Singhal,180.0,120.46,10-25%,3.6,379,1153,2025-11-18,Budget,0.0381
+PROD10270,Roy-Sibal Essential Yoga,Sports,Yoga,Roy-Sibal,5810.0,4123.37,5-20%,3.9,27,2850,2025-02-01,Premium,0.0565
+PROD10271,Dave Smart Staple,Grocery,Staples,Dave,1440.0,1195.01,15-30%,4.6,68,2049,2023-08-05,Standard,0.0107
+PROD10272,"Nagy, Basic Oral Care",Personal Care,Oral Care,"Nagy,",1090.0,713.26,5-20%,4.8,175,130,2025-12-14,Standard,0.0404
+PROD10273,Dave Essential Large Appliance,Appliances,Large Appliances,Dave,4120.0,3210.33,10-25%,4.7,33,2606,2023-06-07,Budget,0.0848
+PROD10274,Borra Basic Sandals & Flip Flop,Footwear,Sandals & Flip Flops,Borra,460.0,309.34,30-45%,4.1,3,1732,2023-06-26,Standard,0.2078
+PROD10275,Ghosh-Mitra Signature Bedding,Home & Kitchen,Bedding,Ghosh-Mitra,1270.0,870.56,5-20%,3.8,4,1870,2025-02-01,Budget,0.0929
+PROD10276,Bhatti-Kakar Essential Ayurveda,Health & Wellness,Ayurveda,Bhatti-Kakar,560.0,387.79,30-45%,4.0,4,1780,2024-11-03,Standard,0.0299
+PROD10277,"Bhargava, Smart Air Conditioner",Appliances,Air Conditioners,"Bhargava,",3950.0,3304.78,25-40%,3.3,15,11,2023-10-27,Standard,0.092
+PROD10278,Mangal-Sampath Premium Snack,Grocery,Snacks,Mangal-Sampath,1060.0,855.24,20-35%,3.8,24,425,2024-07-06,Budget,0.0105
+PROD10279,Kade-Sani Pro Grooming,Personal Care,Grooming,Kade-Sani,1070.0,714.84,10-25%,4.1,231,1416,2025-09-25,Standard,0.0243
+PROD10280,Parmer Premium Ayurveda,Health & Wellness,Ayurveda,Parmer,460.0,331.01,15-30%,3.9,206,2930,2023-09-20,Standard,0.0287
+PROD10281,Kala-Rattan Basic Kids Wear,Fashion,Kids Wear,Kala-Rattan,3920.0,2128.19,30-45%,3.8,117,1500,2023-09-15,Budget,0.1409
+PROD10282,"Saraf, Classic Dinnerware",Home & Kitchen,Dinnerware,"Saraf,",5820.0,4569.74,15-30%,3.7,80,1028,2025-01-04,Premium,0.0407
+PROD10283,"Hayer, Deluxe Skincare",Beauty,Skincare,"Hayer,",730.0,457.1,30-45%,4.0,19,593,2024-04-28,Budget,0.0465
+PROD10284,Upadhyay-Ratta Everyday Sandals & Flip Flop,Footwear,Sandals & Flip Flops,Upadhyay-Ratta,2710.0,1639.56,20-35%,3.7,21,1283,2024-11-24,Standard,0.1912
+PROD10285,Brar Premium Men's Bottomwear,Fashion,Men's Bottomwear,Brar,370.0,202.45,30-45%,5.0,48,1990,2024-08-31,Standard,0.1641
+PROD10286,Upadhyay-Ratta Classic Men's Bottomwear,Fashion,Men's Bottomwear,Upadhyay-Ratta,1500.0,818.61,0-15%,4.9,5,808,2025-11-04,Budget,0.2173
+PROD10287,Behl-Chanda Everyday Backpack,Bags,Backpacks,Behl-Chanda,2060.0,1389.14,5-20%,2.9,24,2006,2023-10-18,Premium,0.0883
+PROD10288,Kohli-Divan Advanced Printer,Office Supplies,Printers,Kohli-Divan,140.0,113.94,5-20%,3.9,15,1907,2025-08-09,Exclusive,0.0322
+PROD10289,Memon Pro Backpack,Bags,Backpacks,Memon,1530.0,896.11,5-20%,3.9,81,666,2024-07-05,Standard,0.136
+PROD10290,Mangal-Sampath Classic Comic,Books,Comics,Mangal-Sampath,380.0,280.49,30-45%,4.0,23,2485,2024-08-25,Budget,0.0254
+PROD10291,"Rastogi, Compact Dinnerware",Home & Kitchen,Dinnerware,"Rastogi,",330.0,259.79,5-20%,3.3,35,2793,2023-10-09,Budget,0.063
+PROD10292,Wali-Nadig Signature Home Decor,Home & Kitchen,Home Decor,Wali-Nadig,5180.0,3929.65,0-15%,4.5,44,216,2025-03-17,Premium,0.0648
+PROD10293,Salvi Ultra Diaper,Baby Care,Diapers,Salvi,2250.0,1645.93,20-35%,4.2,46,1637,2024-11-29,Standard,0.0552
+PROD10294,Gola Deluxe Soft Toy,Toys,Soft Toys,Gola,660.0,443.1,5-20%,3.7,158,1747,2023-08-13,Budget,0.1247
+PROD10295,Parmar Deluxe Medical Device,Health & Wellness,Medical Devices,Parmar,340.0,236.82,20-35%,4.1,28,162,2024-03-19,Standard,0.0249
+PROD10296,"Boase, Signature Medical Device",Health & Wellness,Medical Devices,"Boase,",210.0,145.19,0-15%,3.4,8,2464,2023-02-09,Standard,0.0258
+PROD10297,"Prakash, Advanced Skincare",Beauty,Skincare,"Prakash,",170.0,115.94,25-40%,3.8,126,2341,2025-02-25,Standard,0.0438
+PROD10298,Handa Advanced Diaper,Baby Care,Diapers,Handa,2210.0,1519.92,15-30%,4.0,92,1161,2023-03-10,Standard,0.0616
+PROD10299,"Lall, Essential Charger",Mobile Accessories,Chargers,"Lall,",490.0,327.42,20-35%,4.2,54,2444,2024-01-19,Standard,0.0533
+PROD10300,Keer Classic Oral Care,Personal Care,Oral Care,Keer,330.0,233.09,20-35%,5.0,11,2754,2024-06-17,Standard,0.0299
+PROD10301,"Choudhury, Ultra Laptop",Electronics,Laptops,"Choudhury,",32070.0,27803.68,30-45%,4.2,273,918,2025-05-01,Standard,0.1041
+PROD10302,Wali-Nadig Everyday Children's Book,Books,Children's Books,Wali-Nadig,780.0,572.01,5-20%,3.6,23,1118,2023-05-14,Exclusive,0.0218
+PROD10303,"Sami, Essential Men's Bottomwear",Fashion,Men's Bottomwear,"Sami,",2120.0,1312.93,0-15%,2.8,16,236,2025-07-11,Premium,0.1712
+PROD10304,Chander Basic Haircare,Beauty,Haircare,Chander,2940.0,1925.57,20-35%,3.8,460,19,2024-06-05,Standard,0.0453
+PROD10305,Patla-Gaba Advanced Soft Toy,Toys,Soft Toys,Patla-Gaba,960.0,608.83,5-20%,4.3,156,2026,2023-03-29,Standard,0.0971
+PROD10306,Handa Advanced Laptop,Electronics,Laptops,Handa,76020.0,68974.96,0-15%,4.3,93,2809,2023-10-24,Standard,0.0285
+PROD10307,Gandhi-Lanka Ultra Screen Guard,Mobile Accessories,Screen Guards,Gandhi-Lanka,1270.0,849.38,30-45%,4.2,1,1916,2023-03-15,Standard,0.0453
+PROD10308,Gara-Chad Essential Cookware,Home & Kitchen,Cookware,Gara-Chad,1050.0,721.34,25-40%,4.2,66,2832,2025-11-16,Standard,0.0646
+PROD10309,"Sen, Pro Snack",Grocery,Snacks,"Sen,",370.0,292.52,0-15%,3.9,30,40,2024-10-22,Standard,0.0098
+PROD10310,"Boase, Pro Men's Topwear",Fashion,Men's Topwear,"Boase,",430.0,264.81,25-40%,3.2,39,1998,2025-10-10,Budget,0.1236
+PROD10311,Wali-Nadig Basic Beverage,Grocery,Beverages,Wali-Nadig,600.0,496.08,0-15%,3.5,97,1697,2024-10-13,Standard,0.0118
+PROD10312,Ray Everyday Packaged Food,Grocery,Packaged Food,Ray,350.0,269.78,5-20%,4.8,90,2562,2024-04-04,Standard,0.0122
+PROD10313,Bajwa Basic Cookware,Home & Kitchen,Cookware,Bajwa,1650.0,1135.63,15-30%,3.5,23,1496,2023-11-11,Standard,0.0633
+PROD10314,Nath Deluxe Phone Case,Mobile Accessories,Phone Cases,Nath,290.0,189.2,5-20%,3.4,73,2047,2023-03-22,Budget,0.0856
+PROD10315,Kala-Vaidya Everyday Medical Device,Health & Wellness,Medical Devices,Kala-Vaidya,510.0,351.73,0-15%,4.1,44,2064,2025-09-20,Standard,0.0432
+PROD10316,"Loke, Signature Office Stationery",Stationery,Office Stationery,"Loke,",310.0,226.76,10-25%,4.7,294,938,2025-03-29,Standard,0.0142
+PROD10317,"Krish, Basic Men's Topwear",Fashion,Men's Topwear,"Krish,",410.0,239.98,30-45%,3.8,203,2749,2024-03-21,Standard,0.1733
+PROD10318,Roy-Sibal Premium Baby Food,Baby Care,Baby Food,Roy-Sibal,440.0,314.52,10-25%,3.2,55,2518,2024-06-05,Exclusive,0.0563
+PROD10319,"Bhargava, Advanced Staple",Grocery,Staples,"Bhargava,",100.0,81.39,25-40%,3.8,27,2233,2023-02-17,Exclusive,0.0092
+PROD10320,"Shetty, Premium Digital Watche",Watches,Digital Watches,"Shetty,",510.0,359.08,15-30%,3.7,122,1006,2025-02-11,Premium,0.0758
+PROD10321,"Sen, Signature Grooming",Personal Care,Grooming,"Sen,",1340.0,857.97,20-35%,3.7,4,264,2023-10-11,Standard,0.0349
+PROD10322,Naik Everyday Notebook,Stationery,Notebooks,Naik,140.0,100.4,0-15%,3.6,1075,368,2024-04-29,Standard,0.0269
+PROD10323,"Chaudhari, Pro Storage",Furniture,Storage,"Chaudhari,",19270.0,14227.85,0-15%,3.9,53,1255,2025-04-26,Standard,0.0888
+PROD10324,"Ray, Advanced Packaged Food",Grocery,Packaged Food,"Ray,",100.0,80.84,25-40%,3.8,68,108,2024-12-23,Standard,0.0096
+PROD10325,"Nair, Everyday Sandals & Flip Flop",Footwear,Sandals & Flip Flops,"Nair,",740.0,478.55,20-35%,3.9,63,1625,2025-05-08,Budget,0.1843
+PROD10326,"Lala, Smart Haircare",Beauty,Haircare,"Lala,",870.0,545.5,10-25%,4.3,23,2891,2023-10-01,Standard,0.0656
+PROD10327,"Murty, Pro Sports Shoe",Footwear,Sports Shoes,"Murty,",930.0,614.82,30-45%,4.0,664,1175,2023-11-07,Budget,0.1962
+PROD10328,"Sane, Basic Storage & Container",Home & Kitchen,Storage & Containers,"Sane,",9150.0,6826.38,10-25%,4.1,57,2171,2025-11-24,Standard,0.0836
+PROD10329,Ray Advanced Fragrance,Beauty,Fragrances,Ray,2280.0,1401.72,30-45%,2.8,56,2413,2023-04-20,Budget,0.0462
+PROD10330,Varma-Nayak Premium Women's Western Wear,Fashion,Women's Western Wear,Varma-Nayak,370.0,201.44,5-20%,3.7,45,1441,2024-11-26,Standard,0.1193
+PROD10331,Madan-Kanda Smart Home Decor,Home & Kitchen,Home Decor,Madan-Kanda,830.0,598.89,15-30%,4.1,114,1808,2025-09-16,Budget,0.0599
+PROD10332,"Dugar, Classic Office Furniture",Furniture,Office Furniture,"Dugar,",37330.0,29182.68,25-40%,4.4,71,2081,2025-03-14,Premium,0.1192
+PROD10333,"More, Premium Fans & Cooler",Appliances,Fans & Coolers,"More,",21190.0,17418.62,25-40%,5.0,305,1888,2024-10-28,Budget,0.1025
+PROD10334,Mody-Kari Ultra Packaged Food,Grocery,Packaged Food,Mody-Kari,1000.0,827.12,0-15%,4.4,18,2347,2024-08-05,Standard,0.0091
+PROD10335,"Sunder, Compact Pet Food",Pet Supplies,Pet Food,"Sunder,",1060.0,738.5,10-25%,4.4,441,989,2025-06-11,Standard,0.0381
+PROD10336,Gupta-Kumar Advanced Bath & Body,Personal Care,Bath & Body,Gupta-Kumar,750.0,475.07,5-20%,4.0,13,124,2023-03-23,Standard,0.0201
+PROD10337,"Dash, Essential Women's Western Wear",Fashion,Women's Western Wear,"Dash,",2290.0,1272.92,0-15%,3.7,4,1892,2025-10-30,Premium,0.1621
+PROD10338,Varma-Nayak Pro Bath & Body,Personal Care,Bath & Body,Varma-Nayak,310.0,217.11,0-15%,4.6,11,2082,2023-06-04,Standard,0.0227
+PROD10339,Goel Basic Headphone,Electronics,Headphones,Goel,12420.0,9931.12,30-45%,3.6,70,140,2024-01-11,Standard,0.0606
+PROD10340,Upadhyay Premium Fragrance,Beauty,Fragrances,Upadhyay,330.0,213.29,30-45%,3.4,15,372,2024-05-31,Standard,0.0547
+PROD10341,"Solanki, Basic Winter Wear",Fashion,Winter Wear,"Solanki,",1210.0,719.53,30-45%,3.8,1775,2630,2025-02-24,Standard,0.179
+PROD10342,Kalla-Bhardwaj Compact Handbag,Bags,Handbags,Kalla-Bhardwaj,480.0,287.9,0-15%,3.9,13,1910,2023-09-05,Premium,0.0695
+PROD10343,Keer Ultra Car Accessorie,Automotive Accessories,Car Accessories,Keer,200.0,157.46,5-20%,3.5,151,572,2024-06-06,Standard,0.0757
+PROD10344,Amble Classic Supplement,Health & Wellness,Supplements,Amble,180.0,124.02,30-45%,3.6,32,43,2024-06-30,Budget,0.031
+PROD10345,"Rastogi, Advanced Home Decor",Home & Kitchen,Home Decor,"Rastogi,",1110.0,851.78,20-35%,3.9,39,817,2025-11-04,Budget,0.0516
+PROD10346,Gupta-Kumar Basic Cable,Mobile Accessories,Cables,Gupta-Kumar,450.0,318.8,10-25%,3.7,307,2060,2025-05-31,Standard,0.0737
+PROD10347,"Murthy, Basic Beverage",Grocery,Beverages,"Murthy,",150.0,128.98,30-45%,3.9,118,2078,2023-01-23,Standard,0.0111
+PROD10348,Dixit Everyday Travel Bag,Bags,Travel Bags,Dixit,3310.0,2146.94,15-30%,3.9,123,2322,2024-08-10,Standard,0.0849
+PROD10349,Gupta-Chandra Everyday Fans & Cooler,Appliances,Fans & Coolers,Gupta-Chandra,16110.0,13140.19,15-30%,3.7,150,1508,2025-03-13,Standard,0.089
+PROD10350,"Mistry, Essential Large Appliance",Appliances,Large Appliances,"Mistry,",5510.0,4839.22,10-25%,4.6,13,1665,2023-04-20,Standard,0.0997
+PROD10351,Rai Deluxe Action Figure,Toys,Action Figures,Rai,430.0,291.84,30-45%,5.0,27,2664,2025-01-07,Standard,0.085
+PROD10352,"Virk, Compact Wallet",Bags,Wallets,"Virk,",4590.0,3115.03,20-35%,4.3,0,1664,2025-07-07,Standard,0.0769
+PROD10353,"Choudhury, Deluxe Bath & Body",Personal Care,Bath & Body,"Choudhury,",330.0,232.19,25-40%,4.0,26,2317,2025-12-02,Premium,0.0232
+PROD10354,Ramakrishnan Signature Winter Wear,Fashion,Winter Wear,Ramakrishnan,2380.0,1351.61,25-40%,3.4,8,1323,2025-09-19,Standard,0.1459
+PROD10355,Memon Everyday Fans & Cooler,Appliances,Fans & Coolers,Memon,5880.0,5178.81,20-35%,3.9,248,288,2025-12-06,Budget,0.0512
+PROD10356,Lal Smart Cycling,Sports,Cycling,Lal,7210.0,4750.92,10-25%,4.2,41,1327,2024-02-03,Premium,0.0558
+PROD10357,Keer Compact Men's Bottomwear,Fashion,Men's Bottomwear,Keer,3590.0,2056.51,20-35%,4.0,15,502,2023-03-09,Premium,0.1882
+PROD10358,Barad-Singhal Smart Fragrance,Beauty,Fragrances,Barad-Singhal,350.0,210.98,5-20%,4.0,88,2671,2024-05-12,Budget,0.0575
+PROD10359,"Solanki, Signature Snack",Grocery,Snacks,"Solanki,",1030.0,801.83,5-20%,3.5,13,2060,2025-03-28,Standard,0.0108
+PROD10360,Narayanan Ultra Dairy,Grocery,Dairy,Narayanan,200.0,163.62,15-30%,4.4,45,67,2025-10-03,Standard,0.0091
+PROD10361,Sood Basic Kitchen Appliance,Appliances,Kitchen Appliances,Sood,4320.0,3671.68,5-20%,4.0,69,231,2024-05-13,Standard,0.0732
+PROD10362,"Mittal, Ultra Smart Watche",Watches,Smart Watches,"Mittal,",13860.0,10146.71,10-25%,4.1,108,24,2023-09-08,Standard,0.0934
+PROD10363,Vaidya-D’Alia Premium Women's Casual,Footwear,Women's Casual,Vaidya-D’Alia,5470.0,3535.69,30-45%,4.2,46,1647,2024-11-26,Premium,0.1764
+PROD10364,Sarin Signature Oral Care,Personal Care,Oral Care,Sarin,390.0,274.07,15-30%,3.9,24,1842,2023-12-23,Budget,0.0242
+PROD10365,Bhatti-Kakar Everyday Travel Bag,Bags,Travel Bags,Bhatti-Kakar,360.0,243.93,10-25%,4.0,301,564,2024-04-08,Premium,0.108
+PROD10366,Ghosh-Mitra Everyday Men's Topwear,Fashion,Men's Topwear,Ghosh-Mitra,330.0,201.73,30-45%,4.2,638,219,2023-08-08,Standard,0.1762
+PROD10367,Apte-Contractor Ultra Men's Topwear,Fashion,Men's Topwear,Apte-Contractor,1140.0,664.33,25-40%,4.1,824,61,2023-09-21,Budget,0.1406
+PROD10368,Pant-Kadakia Everyday Non-Fiction,Books,Non-Fiction,Pant-Kadakia,350.0,280.61,30-45%,4.3,134,1695,2025-04-09,Budget,0.0135
+PROD10369,"Baral, Signature Office Furniture",Furniture,Office Furniture,"Baral,",3060.0,2454.8,20-35%,4.0,48,1128,2024-05-04,Standard,0.0836
+PROD10370,"Loke, Smart Fragrance",Beauty,Fragrances,"Loke,",490.0,301.09,10-25%,4.0,130,1603,2024-02-02,Premium,0.0483
+PROD10371,Sood Advanced Wallet,Bags,Wallets,Sood,920.0,568.26,15-30%,4.0,121,2317,2025-04-02,Standard,0.1175
+PROD10372,Kala-Vaidya Premium Sandals & Flip Flop,Footwear,Sandals & Flip Flops,Kala-Vaidya,1890.0,1270.27,5-20%,3.4,123,854,2025-04-14,Standard,0.1459
+PROD10373,"Khanna, Advanced Skincare",Beauty,Skincare,"Khanna,",180.0,107.63,25-40%,4.2,22,1709,2023-12-21,Premium,0.05
+PROD10374,"Bhargava, Basic Board Game",Toys,Board Games,"Bhargava,",930.0,660.21,5-20%,4.5,218,1071,2024-05-18,Premium,0.1025
+PROD10375,"Ray, Classic Cookware",Home & Kitchen,Cookware,"Ray,",210.0,165.22,0-15%,3.8,9,1070,2025-02-12,Standard,0.0739
+PROD10376,Bhatti-Kakar Everyday Speaker,Electronics,Speakers,Bhatti-Kakar,5630.0,4829.39,0-15%,4.4,201,1838,2024-12-06,Standard,0.0856
+PROD10377,Ramakrishnan Premium Pens & Pencil,Stationery,Pens & Pencils,Ramakrishnan,80.0,55.52,20-35%,3.8,10,2411,2024-03-27,Budget,0.0166
+PROD10378,Grewal Premium Supplement,Health & Wellness,Supplements,Grewal,670.0,440.19,5-20%,4.4,83,282,2024-08-18,Standard,0.0307
+PROD10379,Andra Smart Art Supplie,Stationery,Art Supplies,Andra,50.0,34.12,20-35%,4.4,238,481,2024-04-12,Premium,0.0178
+PROD10380,"Yadav, Essential Storage",Furniture,Storage,"Yadav,",38970.0,31768.49,5-20%,3.9,151,337,2024-09-13,Exclusive,0.0658
+PROD10381,"Sane, Signature Grooming",Personal Care,Grooming,"Sane,",1660.0,1144.83,20-35%,3.9,42,1798,2024-09-27,Standard,0.0335
+PROD10382,Zacharia Pro Handbag,Bags,Handbags,Zacharia,700.0,444.4,20-35%,4.2,191,2375,2023-11-29,Premium,0.0942
+PROD10383,"Mittal, Signature Educational Toy",Toys,Educational Toys,"Mittal,",520.0,372.08,5-20%,3.0,237,188,2024-07-03,Premium,0.0916
+PROD10384,Gupta-Kumar Signature Non-Fiction,Books,Non-Fiction,Gupta-Kumar,530.0,432.76,15-30%,4.1,53,177,2025-04-24,Premium,0.0138
+PROD10385,Narayanan Everyday Snack,Grocery,Snacks,Narayanan,420.0,350.11,30-45%,3.8,116,2175,2025-07-16,Budget,0.0094
+PROD10386,Iyengar Deluxe Storage & Container,Home & Kitchen,Storage & Containers,Iyengar,370.0,252.6,10-25%,4.0,30,1738,2024-10-30,Standard,0.0672
+PROD10387,"Chaudry, Everyday Winter Wear",Fashion,Winter Wear,"Chaudry,",1370.0,765.98,0-15%,3.8,135,2823,2025-04-19,Premium,0.1699
+PROD10388,Gara-Chad Pro Men's Bottomwear,Fashion,Men's Bottomwear,Gara-Chad,870.0,481.56,5-20%,3.5,10,115,2025-11-25,Standard,0.1126
+PROD10389,Gola Smart Charger,Mobile Accessories,Chargers,Gola,200.0,143.44,30-45%,4.0,46,128,2023-04-23,Premium,0.0518
+PROD10390,Ramakrishnan Advanced Packaged Food,Grocery,Packaged Food,Ramakrishnan,470.0,392.08,5-20%,3.7,159,1568,2023-07-02,Standard,0.0122
+PROD10391,Roy-Sibal Everyday Dairy,Grocery,Dairy,Roy-Sibal,50.0,42.85,30-45%,4.1,4,1669,2025-10-26,Standard,0.0116
+PROD10392,Gandhi-Lanka Ultra Storage & Container,Home & Kitchen,Storage & Containers,Gandhi-Lanka,8430.0,5840.02,20-35%,3.5,1376,764,2023-03-13,Standard,0.069
+PROD10393,Shanker-Dhar Essential Dairy,Grocery,Dairy,Shanker-Dhar,100.0,82.4,15-30%,4.3,221,2353,2025-08-07,Premium,0.0118
+PROD10394,"Hayer, Smart Women's Western Wear",Fashion,Women's Western Wear,"Hayer,",410.0,235.07,25-40%,4.2,70,367,2023-07-24,Standard,0.0399
+PROD10395,Gala Basic Kids Wear,Fashion,Kids Wear,Gala,400.0,223.95,5-20%,4.2,35,796,2023-01-19,Standard,0.2077
+PROD10396,"Bala, Advanced Sports Shoe",Footwear,Sports Shoes,"Bala,",990.0,666.98,15-30%,4.0,42,2824,2024-03-29,Budget,0.1639
+PROD10397,Borra Premium Smartwatche,Electronics,Smartwatches,Borra,49900.0,43696.7,10-25%,3.6,35,334,2023-03-07,Standard,0.0819
+PROD10398,"Lalla, Signature Comic",Books,Comics,"Lalla,",270.0,200.46,20-35%,3.8,30,1594,2023-09-26,Budget,0.0164
+PROD10399,Ray Essential Dairy,Grocery,Dairy,Ray,1790.0,1503.9,10-25%,3.2,86,2411,2024-01-04,Budget,0.0092
+PROD10400,Karpe Advanced Board Game,Toys,Board Games,Karpe,1720.0,1220.11,5-20%,4.5,24,1198,2024-04-03,Budget,0.0892
+PROD10401,Roy-Sibal Advanced Handbag,Bags,Handbags,Roy-Sibal,1200.0,765.21,10-25%,3.8,48,1207,2023-09-25,Standard,0.1132
+PROD10402,Mutti Advanced Dinnerware,Home & Kitchen,Dinnerware,Mutti,1350.0,994.14,15-30%,3.5,51,2911,2023-02-27,Premium,0.0773
+PROD10403,Chanda Deluxe Winter Wear,Fashion,Winter Wear,Chanda,2030.0,1192.8,0-15%,4.4,2161,2829,2023-01-23,Budget,0.0861
+PROD10404,"Sami, Signature Wallet",Bags,Wallets,"Sami,",4380.0,2570.96,15-30%,4.0,14,1085,2024-10-31,Standard,0.0905
+PROD10405,Dutta Classic Academic,Books,Academic,Dutta,220.0,173.44,20-35%,3.7,72,2672,2023-02-18,Budget,0.0236
+PROD10406,Grewal Basic Storage & Container,Home & Kitchen,Storage & Containers,Grewal,380.0,284.26,30-45%,3.5,67,878,2023-02-20,Budget,0.0746
+PROD10407,Naik Essential Sandals & Flip Flop,Footwear,Sandals & Flip Flops,Naik,550.0,340.91,25-40%,3.6,3,2101,2025-04-03,Budget,0.2211
+PROD10408,Kala-Vaidya Smart Snack,Grocery,Snacks,Kala-Vaidya,940.0,829.37,30-45%,3.5,182,2604,2024-07-07,Premium,0.0104
+PROD10409,Sarin Deluxe Kids Wear,Fashion,Kids Wear,Sarin,2390.0,1402.22,5-20%,4.6,32,954,2025-07-28,Standard,0.1658
+PROD10410,"Bhagat, Everyday Cable",Mobile Accessories,Cables,"Bhagat,",800.0,563.74,10-25%,3.8,12,823,2023-10-11,Standard,0.045
+PROD10411,"Baral, Classic Air Conditioner",Appliances,Air Conditioners,"Baral,",23190.0,17892.02,0-15%,4.2,153,1752,2023-05-06,Premium,0.1167
+PROD10412,Pant-Kadakia Pro Home Decor,Home & Kitchen,Home Decor,Pant-Kadakia,11560.0,8986.6,30-45%,4.6,31,403,2023-11-21,Budget,0.1094
+PROD10413,"Kade, Compact Bedroom",Furniture,Bedroom,"Kade,",2410.0,1993.08,20-35%,4.7,17,893,2025-04-30,Premium,0.1116
+PROD10414,"Nair, Ultra Storage & Container",Home & Kitchen,Storage & Containers,"Nair,",1250.0,930.73,15-30%,3.2,94,668,2023-05-02,Standard,0.0443
+PROD10415,Handa Compact Men's Topwear,Fashion,Men's Topwear,Handa,2460.0,1431.81,25-40%,4.4,43,2226,2023-04-16,Standard,0.2061
+PROD10416,Barad-Singhal Smart Fiction,Books,Fiction,Barad-Singhal,920.0,675.98,25-40%,4.6,139,1554,2024-09-16,Standard,0.0225
+PROD10417,Goda Ultra Air Conditioner,Appliances,Air Conditioners,Goda,2640.0,2282.55,20-35%,3.8,1326,684,2023-10-30,Standard,0.0838
+PROD10418,Pingle Classic Grooming,Personal Care,Grooming,Pingle,1780.0,1130.66,10-25%,3.5,225,2924,2025-10-25,Budget,0.0245
+PROD10419,Rastogi Premium Cable,Mobile Accessories,Cables,Rastogi,910.0,650.41,25-40%,3.7,100,2656,2025-08-10,Standard,0.0967
+PROD10420,Karpe Advanced Travel Bag,Bags,Travel Bags,Karpe,700.0,415.94,20-35%,4.2,9,640,2024-11-06,Standard,0.0511
+PROD10421,Mody-Kari Basic Smartphone,Electronics,Smartphones,Mody-Kari,44430.0,40062.84,0-15%,4.4,164,1063,2024-03-15,Standard,0.0845
+PROD10422,"Lala, Classic Storage & Container",Home & Kitchen,Storage & Containers,"Lala,",590.0,453.28,15-30%,4.2,267,2510,2025-08-12,Standard,0.0952
+PROD10423,Parmer Premium Diaper,Baby Care,Diapers,Parmer,1050.0,733.38,25-40%,4.3,7,2235,2025-10-03,Standard,0.0563
+PROD10424,Vaidya-D’Alia Classic Beverage,Grocery,Beverages,Vaidya-D’Alia,160.0,131.54,0-15%,4.6,77,1507,2024-07-13,Budget,0.0125
+PROD10425,"Khanna, Compact Men's Casual",Footwear,Men's Casual,"Khanna,",1080.0,636.57,0-15%,4.6,63,1987,2024-08-03,Standard,0.1319
+PROD10426,D’Alia-Chhabra Everyday Cable,Mobile Accessories,Cables,D’Alia-Chhabra,650.0,466.76,5-20%,3.9,5,2648,2025-10-18,Budget,0.0416
+PROD10427,Kala-Vaidya Ultra Phone Case,Mobile Accessories,Phone Cases,Kala-Vaidya,260.0,168.3,25-40%,4.0,13,1593,2024-10-27,Premium,0.0515
+PROD10428,Setty Ultra Packaged Food,Grocery,Packaged Food,Setty,100.0,89.03,0-15%,3.5,24,833,2025-03-25,Budget,0.0109
+PROD10429,Bhatti-Kakar Everyday Digital Watche,Watches,Digital Watches,Bhatti-Kakar,540.0,363.19,20-35%,4.6,172,1692,2024-11-08,Premium,0.1026
+PROD10430,"Lala, Deluxe Medical Device",Health & Wellness,Medical Devices,"Lala,",240.0,167.56,30-45%,3.9,4,700,2025-06-08,Premium,0.0239
+PROD10431,Palla Essential Cookware,Home & Kitchen,Cookware,Palla,3020.0,2077.36,30-45%,5.0,99,2708,2025-01-14,Standard,0.0609
+PROD10432,Gola Essential Fans & Cooler,Appliances,Fans & Coolers,Gola,59070.0,51418.99,20-35%,3.9,133,2967,2023-10-02,Standard,0.0835
+PROD10433,Bhatti-Kakar Advanced Storage & Container,Home & Kitchen,Storage & Containers,Bhatti-Kakar,1420.0,1095.01,10-25%,3.7,75,793,2024-12-16,Standard,0.062
+PROD10434,Gara-Chad Advanced Ayurveda,Health & Wellness,Ayurveda,Gara-Chad,170.0,122.77,5-20%,3.6,210,2932,2023-08-26,Standard,0.0247
+PROD10435,"Boase, Ultra Air Conditioner",Appliances,Air Conditioners,"Boase,",47490.0,38422.85,5-20%,3.7,196,676,2023-11-07,Premium,0.0976
+PROD10436,"Sunder, Classic Men's Bottomwear",Fashion,Men's Bottomwear,"Sunder,",860.0,485.03,0-15%,4.4,63,1147,2023-11-30,Standard,0.1803
+PROD10437,"Nair, Advanced Dairy",Grocery,Dairy,"Nair,",190.0,153.74,30-45%,4.3,152,2275,2025-05-08,Budget,0.0073
+PROD10438,Wali-Nadig Premium Pens & Pencil,Stationery,Pens & Pencils,Wali-Nadig,490.0,351.23,25-40%,3.1,39,2651,2025-08-09,Premium,0.0159
+PROD10439,Koshy Essential Backpack,Bags,Backpacks,Koshy,2730.0,1655.95,15-30%,3.3,131,998,2025-05-26,Standard,0.1064
+PROD10440,Soman Essential Car Accessorie,Automotive Accessories,Car Accessories,Soman,340.0,262.26,0-15%,4.3,137,2793,2023-04-21,Standard,0.0818
+PROD10441,Keer Essential Living Room,Furniture,Living Room,Keer,29570.0,21388.89,10-25%,4.1,37,991,2024-12-10,Standard,0.1427
+PROD10442,Bhatt Essential Camera,Electronics,Cameras,Bhatt,44910.0,38088.9,25-40%,4.3,15,1121,2025-01-05,Premium,0.0682
+PROD10443,"Yadav, Signature Yoga",Sports,Yoga,"Yadav,",340.0,232.37,10-25%,4.4,50,2197,2025-04-28,Budget,0.0534
+PROD10444,Borra Pro Staple,Grocery,Staples,Borra,640.0,535.35,30-45%,4.1,84,367,2023-05-05,Standard,0.0083
+PROD10445,Kala-Vaidya Deluxe Laptop,Electronics,Laptops,Kala-Vaidya,60410.0,54373.57,20-35%,4.1,171,1088,2024-12-22,Standard,0.0954
+PROD10446,Dewan-Koshy Advanced Cable,Mobile Accessories,Cables,Dewan-Koshy,1370.0,945.14,0-15%,3.8,67,1774,2025-04-29,Budget,0.0754
+PROD10447,Dutta Premium Backpack,Bags,Backpacks,Dutta,1980.0,1189.88,20-35%,3.7,2,1970,2024-12-13,Standard,0.1048
+PROD10448,"Khanna, Signature Yoga",Sports,Yoga,"Khanna,",2440.0,1678.82,0-15%,4.2,15,2048,2023-12-06,Exclusive,0.085
+PROD10449,Kaul Pro Storage & Container,Home & Kitchen,Storage & Containers,Kaul,5160.0,4007.99,15-30%,3.4,37,2295,2025-08-31,Budget,0.075
+PROD10450,"Dash, Pro Ayurveda",Health & Wellness,Ayurveda,"Dash,",1520.0,994.52,25-40%,5.0,36,162,2024-01-03,Premium,0.0279
+PROD10451,"Divan, Compact Winter Wear",Fashion,Winter Wear,"Divan,",1990.0,1094.37,10-25%,3.7,15,551,2025-03-02,Budget,0.137
+PROD10452,Buch-Kaul Everyday Men's Topwear,Fashion,Men's Topwear,Buch-Kaul,940.0,575.81,20-35%,3.8,17,1504,2023-07-03,Standard,0.1407
+PROD10453,"Chaudhry, Compact Home Decor",Home & Kitchen,Home Decor,"Chaudhry,",560.0,413.07,15-30%,4.5,56,2887,2025-05-10,Budget,0.0719
+PROD10454,Shanker-Dhar Everyday Formal Shoe,Footwear,Formal Shoes,Shanker-Dhar,480.0,300.11,30-45%,4.4,108,225,2025-02-24,Standard,0.1891
+PROD10455,Karpe Signature Packaged Food,Grocery,Packaged Food,Karpe,240.0,209.89,10-25%,3.6,116,1907,2024-12-09,Standard,0.0118
+PROD10456,Salvi Deluxe Supplement,Health & Wellness,Supplements,Salvi,200.0,144.22,15-30%,4.1,16,2436,2023-08-05,Budget,0.0327
+PROD10457,Ahuja-Dutta Premium Fragrance,Beauty,Fragrances,Ahuja-Dutta,160.0,103.36,20-35%,4.8,69,1741,2023-07-03,Exclusive,0.0263
+PROD10458,Behl-Chanda Ultra Women's Western Wear,Fashion,Women's Western Wear,Behl-Chanda,4870.0,2672.49,0-15%,3.9,146,954,2024-01-20,Standard,0.1558
+PROD10459,"Saraf, Basic Men's Casual",Footwear,Men's Casual,"Saraf,",4470.0,2663.41,10-25%,3.9,68,624,2024-02-14,Standard,0.1424
+PROD10460,Patla-Gaba Classic Percussion,Musical Instruments,Percussion,Patla-Gaba,23730.0,17817.26,5-20%,4.1,3,404,2023-03-19,Premium,0.0727
+PROD10461,"Yadav, Classic Men's Bottomwear",Fashion,Men's Bottomwear,"Yadav,",660.0,384.98,0-15%,4.5,27,1009,2024-04-06,Exclusive,0.143
+PROD10462,Borra Signature Printer,Office Supplies,Printers,Borra,330.0,251.19,25-40%,3.8,117,845,2023-05-23,Premium,0.0248
+PROD10463,Varma-Nayak Basic Bedding,Home & Kitchen,Bedding,Varma-Nayak,820.0,588.07,25-40%,4.3,28,885,2025-11-03,Standard,0.0666
+PROD10464,"Mittal, Signature Air Conditioner",Appliances,Air Conditioners,"Mittal,",26230.0,21311.34,10-25%,3.7,60,2794,2024-06-18,Exclusive,0.0787
+PROD10465,Barad-Singhal Compact Board Game,Toys,Board Games,Barad-Singhal,3390.0,2212.47,20-35%,4.1,63,509,2023-05-29,Standard,0.0513
+PROD10466,"Krish, Classic Camera",Electronics,Cameras,"Krish,",6110.0,5631.18,20-35%,4.0,69,549,2024-03-10,Budget,0.075
+PROD10467,"Yohannan, Advanced Electronic Instrument",Musical Instruments,Electronic Instruments,"Yohannan,",3140.0,2635.1,10-25%,3.5,99,2187,2024-10-27,Budget,0.0738
+PROD10468,Bhatt Ultra Cycling,Sports,Cycling,Bhatt,8250.0,5463.01,30-45%,4.0,42,398,2023-02-11,Standard,0.0685
+PROD10469,"Bhargava, Ultra Home Decor",Home & Kitchen,Home Decor,"Bhargava,",250.0,194.5,20-35%,4.2,744,1032,2023-03-16,Standard,0.0584
+PROD10470,Barad-Singhal Ultra Sports Shoe,Footwear,Sports Shoes,Barad-Singhal,590.0,356.19,0-15%,4.7,79,1871,2025-11-13,Standard,0.1935
+PROD10471,Mutti Smart Children's Book,Books,Children's Books,Mutti,100.0,82.94,30-45%,3.5,61,2532,2024-10-09,Premium,0.0205
+PROD10472,"Bhat, Advanced Home Decor",Home & Kitchen,Home Decor,"Bhat,",2920.0,2102.27,5-20%,3.7,64,2852,2023-12-24,Standard,0.0706
+PROD10473,Pingle Pro Men's Bottomwear,Fashion,Men's Bottomwear,Pingle,2460.0,1366.19,0-15%,4.2,74,1593,2025-08-18,Standard,0.1658
+PROD10474,Boase-Mallick Classic Tablet,Electronics,Tablets,Boase-Mallick,35550.0,32197.34,5-20%,4.1,5,1644,2024-03-19,Standard,0.0583
+PROD10475,"Konda, Classic Notebook",Stationery,Notebooks,"Konda,",560.0,386.18,20-35%,3.7,11,552,2025-03-27,Standard,0.0157
+PROD10476,Mutti Basic Fragrance,Beauty,Fragrances,Mutti,900.0,601.19,0-15%,4.3,17,1107,2025-04-11,Standard,0.0624
+PROD10477,Dutta Compact Board Game,Toys,Board Games,Dutta,450.0,289.75,25-40%,4.2,49,312,2025-09-18,Standard,0.1007
+PROD10478,"Shetty, Compact Living Room",Furniture,Living Room,"Shetty,",13740.0,10972.68,30-45%,3.8,10,2181,2023-03-31,Standard,0.114
+PROD10479,"Bir, Advanced Grooming",Personal Care,Grooming,"Bir,",750.0,497.61,20-35%,4.1,41,869,2025-12-11,Budget,0.0372
+PROD10480,"Sane, Smart Supplement",Health & Wellness,Supplements,"Sane,",210.0,147.22,25-40%,,20,2873,2023-02-19,Standard,0.0256
+PROD10481,"Dash, Deluxe Sandals & Flip Flop",Footwear,Sandals & Flip Flops,"Dash,",5060.0,3159.59,30-45%,4.2,329,1450,2024-01-05,Budget,0.1844
+PROD10482,"Mital, Classic Art Supplie",Stationery,Art Supplies,"Mital,",200.0,154.98,10-25%,3.4,54,443,2023-02-23,Standard,0.0189
+PROD10483,Boase-Narayanan Essential Cycling,Sports,Cycling,Boase-Narayanan,9280.0,6094.21,20-35%,4.1,127,1805,2025-09-01,Standard,0.0609
+PROD10484,Lal Essential Laptop,Electronics,Laptops,Lal,4060.0,3441.83,20-35%,4.4,212,2888,2023-10-12,Standard,0.0628
+PROD10485,Randhawa-Deep Compact Analog Watche,Watches,Analog Watches,Randhawa-Deep,2890.0,1996.82,0-15%,3.6,68,849,2023-06-12,Budget,0.1134
+PROD10486,"Yohannan, Deluxe Yoga",Sports,Yoga,"Yohannan,",480.0,317.74,20-35%,3.9,24,2216,2023-02-25,Budget,0.0485
+PROD10487,Amble Ultra Bedding,Home & Kitchen,Bedding,Amble,2720.0,1841.23,20-35%,4.0,11,2957,2024-01-31,Standard,0.0726
+PROD10488,Kar-Issac Premium Kids Wear,Fashion,Kids Wear,Kar-Issac,1990.0,1192.86,20-35%,3.6,1214,1002,2024-08-18,Standard,0.1655
+PROD10489,"Sen, Premium Packaged Food",Grocery,Packaged Food,"Sen,",580.0,460.7,15-30%,3.9,91,2704,2025-08-23,Standard,0.0096
+PROD10490,Mallick Basic Handbag,Bags,Handbags,Mallick,1110.0,683.71,30-45%,3.9,171,947,2024-01-26,Premium,0.1379
+PROD10491,"Baral, Smart Office Furniture",Furniture,Office Furniture,"Baral,",4240.0,3123.65,20-35%,3.9,33,1650,2024-09-13,Standard,0.1081
+PROD10492,Khatri-Bhardwaj Pro Smartphone,Electronics,Smartphones,Khatri-Bhardwaj,14700.0,12482.42,15-30%,3.8,18,1994,2024-05-27,Budget,0.0703
+PROD10493,Behl-Chanda Classic Medical Device,Health & Wellness,Medical Devices,Behl-Chanda,680.0,506.65,5-20%,3.4,17,1367,2025-09-10,Budget,0.0313
+PROD10494,Ahuja-Dutta Classic Women's Ethnic Wear,Fashion,Women's Ethnic Wear,Ahuja-Dutta,2370.0,1336.25,5-20%,4.0,16,1199,2023-03-06,Budget,0.1397
+PROD10495,Acharya-Modi Essential Digital Watche,Watches,Digital Watches,Acharya-Modi,11080.0,7466.35,15-30%,4.1,25,573,2024-12-17,Standard,0.0851
+PROD10496,"Divan, Everyday Ayurveda",Health & Wellness,Ayurveda,"Divan,",250.0,163.65,5-20%,4.1,67,176,2025-12-20,Standard,0.0415
+PROD10497,"Lall, Smart Yoga",Sports,Yoga,"Lall,",850.0,560.06,30-45%,5.0,17,2073,2024-02-04,Premium,0.0624
+PROD10498,Grewal Signature Men's Bottomwear,Fashion,Men's Bottomwear,Grewal,2710.0,1651.44,5-20%,4.1,179,68,2024-05-17,Premium,0.1214
+PROD10499,"Konda, Premium Bedding",Home & Kitchen,Bedding,"Konda,",310.0,217.71,0-15%,3.9,650,1940,2025-12-14,Standard,0.0682
+PROD10500,"Lall, Signature Women's Ethnic Wear",Fashion,Women's Ethnic Wear,"Lall,",1160.0,637.32,20-35%,4.1,27,961,2024-09-08,Budget,0.1197
+PROD10501,"Loke, Deluxe Smartphone",Electronics,Smartphones,"Loke,",45990.0,41991.63,5-20%,3.3,127,696,2023-03-17,Budget,0.0605
+PROD10502,Morar Everyday Women's Western Wear,Fashion,Women's Western Wear,Morar,1920.0,1088.85,20-35%,3.7,11,2072,2025-07-14,Standard,0.1809
+PROD10503,Gola Ultra Kids Wear,Fashion,Kids Wear,Gola,1150.0,707.9,25-40%,4.2,172,2902,2024-05-22,Premium,0.1665
+PROD10504,Bhatt Compact Bath & Body,Personal Care,Bath & Body,Bhatt,1080.0,707.04,30-45%,4.2,26,772,2023-10-02,Standard,0.0311
+PROD10505,Murthy Ultra Men's Topwear,Fashion,Men's Topwear,Murthy,1380.0,815.63,0-15%,3.9,55,1040,2023-05-07,Premium,0.1065
+PROD10506,Chander Advanced Oral Care,Personal Care,Oral Care,Chander,420.0,272.49,0-15%,4.2,87,2517,2024-01-29,Budget,0.0257
+PROD10507,"Lanka, Compact Packaged Food",Grocery,Packaged Food,"Lanka,",940.0,814.25,10-25%,4.5,55,630,2023-07-31,Exclusive,0.0141
+PROD10508,Parmer Essential Yoga,Sports,Yoga,Parmer,610.0,399.08,10-25%,4.2,165,429,2025-02-24,Standard,0.0481
+PROD10509,Thaman-Sandhu Premium Home Decor,Home & Kitchen,Home Decor,Thaman-Sandhu,1070.0,817.83,5-20%,3.7,404,1972,2023-06-18,Standard,0.08
+PROD10510,"Iyer, Deluxe Supplement",Health & Wellness,Supplements,"Iyer,",1150.0,752.18,20-35%,3.7,1107,2987,2024-09-09,Budget,0.0316
+PROD10511,Sidhu-Wadhwa Deluxe Makeup,Beauty,Makeup,Sidhu-Wadhwa,230.0,149.88,25-40%,4.0,146,888,2024-01-18,Standard,0.0556
+PROD10512,Grewal Classic Ayurveda,Health & Wellness,Ayurveda,Grewal,880.0,591.05,20-35%,4.1,185,749,2025-05-14,Budget,0.0285
+PROD10513,Gupta-Kumar Basic Cookware,Home & Kitchen,Cookware,Gupta-Kumar,460.0,351.22,5-20%,3.6,33,1593,2024-12-26,Budget,0.0663
+PROD10514,Naik Pro Smartwatche,Electronics,Smartwatches,Naik,7190.0,5836.24,15-30%,3.3,3,2209,2023-10-08,Standard,0.1098
+PROD10515,Kade-Sani Basic Sandals & Flip Flop,Footwear,Sandals & Flip Flops,Kade-Sani,5720.0,3740.71,10-25%,3.0,26,1148,2025-09-30,Standard,0.2595
+PROD10516,Sarin Compact Oral Care,Personal Care,Oral Care,Sarin,160.0,103.18,5-20%,4.2,9,2274,2025-03-18,Budget,0.0198
+PROD10517,"Mital, Classic Speaker",Electronics,Speakers,"Mital,",17290.0,15807.3,0-15%,3.7,31,1545,2024-11-30,Standard,0.0629
+PROD10518,Chanda Ultra Dairy,Grocery,Dairy,Chanda,1980.0,1633.02,20-35%,5.0,77,1243,2024-09-17,Standard,0.0059
+PROD10519,Iyengar Classic Oral Care,Personal Care,Oral Care,Iyengar,130.0,86.77,10-25%,3.9,26,1924,2024-09-30,Premium,0.0349
+PROD10520,Kohli-Divan Ultra Travel Bag,Bags,Travel Bags,Kohli-Divan,670.0,405.4,10-25%,3.9,41,1249,2025-09-19,Standard,0.109
+PROD10521,Nath Basic Camera,Electronics,Cameras,Nath,12500.0,9936.17,10-25%,4.4,180,2767,2025-06-21,Premium,0.0718
+PROD10522,Kala-Rattan Classic Dairy,Grocery,Dairy,Kala-Rattan,330.0,271.93,15-30%,4.5,53,2567,2025-02-25,Budget,0.0099
+PROD10523,"Bala, Smart Home Decor",Home & Kitchen,Home Decor,"Bala,",1010.0,755.92,10-25%,4.3,4,141,2025-11-20,Budget,0.0619
+PROD10524,Iyengar Basic Makeup,Beauty,Makeup,Iyengar,710.0,438.72,5-20%,3.5,372,2084,2025-09-20,Budget,0.0362
+PROD10525,Madan-Kanda Ultra Travel Bag,Bags,Travel Bags,Madan-Kanda,1600.0,1043.1,20-35%,4.2,233,2754,2023-11-13,Budget,0.1179
+PROD10526,Gupta-Chandra Ultra Living Room,Furniture,Living Room,Gupta-Chandra,13080.0,9820.97,0-15%,3.4,177,1382,2024-05-21,Standard,0.0881
+PROD10527,Behl-Chanda Compact Camera,Electronics,Cameras,Behl-Chanda,16480.0,13310.83,0-15%,4.1,307,921,2023-11-27,Budget,0.0698
+PROD10528,"Kade, Deluxe Charger",Mobile Accessories,Chargers,"Kade,",240.0,154.28,25-40%,4.3,135,412,2023-04-16,Standard,0.0467
+PROD10529,Karpe Smart Beverage,Grocery,Beverages,Karpe,120.0,105.81,30-45%,3.4,39,286,2025-04-19,Standard,0.0082
+PROD10530,Pant-Kadakia Compact Large Appliance,Appliances,Large Appliances,Pant-Kadakia,3160.0,2695.75,0-15%,3.1,5,612,2024-05-19,Budget,0.1049
+PROD10531,"Yohannan, Compact Tablet",Electronics,Tablets,"Yohannan,",3130.0,2767.69,15-30%,3.5,126,570,2023-11-23,Budget,0.1178
+PROD10532,Dave Smart Screen Guard,Mobile Accessories,Screen Guards,Dave,220.0,142.27,25-40%,4.2,17,1753,2025-06-17,Standard,0.0511
+PROD10533,"Yadav, Essential Headphone",Electronics,Headphones,"Yadav,",6750.0,5920.16,10-25%,4.3,17,1051,2025-06-19,Premium,0.0965
+PROD10534,"Yadav, Deluxe Staple",Grocery,Staples,"Yadav,",230.0,183.23,20-35%,3.9,38,2236,2025-02-26,Premium,0.011
+PROD10535,Naik Signature Non-Fiction,Books,Non-Fiction,Naik,890.0,652.71,20-35%,4.5,228,2383,2025-07-03,Standard,0.0175
+PROD10536,Pant-Kadakia Pro Makeup,Beauty,Makeup,Pant-Kadakia,700.0,473.26,5-20%,4.1,37,1934,2025-08-28,Standard,0.0489
+PROD10537,Mody-Kari Signature Wallet,Bags,Wallets,Mody-Kari,1400.0,831.32,5-20%,3.8,18,2209,2024-09-22,Standard,0.128
+PROD10538,Sabharwal-Kothari Advanced Comic,Books,Comics,Sabharwal-Kothari,260.0,215.18,0-15%,4.0,71,2485,2024-05-01,Standard,0.0162
+PROD10539,"Bhat, Pro Travel Bag",Bags,Travel Bags,"Bhat,",1150.0,763.15,20-35%,3.8,3,2902,2025-11-06,Standard,0.0922
+PROD10540,Rai Everyday Soft Toy,Toys,Soft Toys,Rai,200.0,143.19,15-30%,4.2,40,916,2025-04-24,Premium,0.0822
+PROD10541,Mangal-Sampath Deluxe Children's Book,Books,Children's Books,Mangal-Sampath,150.0,117.78,0-15%,3.3,307,141,2023-10-21,Standard,0.0166
+PROD10542,"Mital, Compact Skincare",Beauty,Skincare,"Mital,",2510.0,1505.31,20-35%,4.3,6,532,2025-03-28,Standard,0.0688
+PROD10543,Kalla-Bhardwaj Everyday Staple,Grocery,Staples,Kalla-Bhardwaj,1400.0,1128.14,5-20%,3.5,28,668,2024-04-21,Standard,0.0123
+PROD10544,Kale Premium Home Decor,Home & Kitchen,Home Decor,Kale,2090.0,1638.57,30-45%,4.1,45,1067,2024-08-14,Standard,0.0805
+PROD10545,Ray Classic Phone Case,Mobile Accessories,Phone Cases,Ray,500.0,333.08,30-45%,4.7,11,1095,2024-08-08,Standard,0.07
+PROD10546,Wali-Nadig Compact Staple,Grocery,Staples,Wali-Nadig,470.0,380.52,5-20%,4.7,22,2230,2023-10-26,Budget,0.0104
+PROD10547,Mody-Kari Signature Ayurveda,Health & Wellness,Ayurveda,Mody-Kari,1210.0,887.73,20-35%,3.9,26,28,2025-01-06,Standard,0.0349
+PROD10548,Chanda Everyday Kids Wear,Fashion,Kids Wear,Chanda,700.0,431.96,20-35%,4.5,163,2985,2025-07-09,Standard,0.2242
+PROD10549,"Sunder, Smart Medical Device",Health & Wellness,Medical Devices,"Sunder,",860.0,625.0,25-40%,4.0,125,231,2023-12-16,Standard,0.0382
