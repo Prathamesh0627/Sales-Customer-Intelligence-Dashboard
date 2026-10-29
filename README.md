@@ -147,11 +147,13 @@ E-Commerce-Analytics/
 
 ### 2. Customer Insights & Regional Analysis
 
-![Customer Insights and Regional Analysis](dashboard_screenshots/customer_regional_analysis.png)
+<img width="1308" height="737" alt="2_Customer Insight&#39;s" src="https://github.com/user-attachments/assets/a7597e7f-519d-47d4-945a-3568a9a7051d" />
+
 
 ### 3. Payments Settlement & Product Catalog Insights
 
-![Payments Settlement and Product Catalog Insights](dashboard_screenshots/payments_product_insights.png)
+<img width="1335" height="746" alt="3_Payment&#39;s   Catalog" src="https://github.com/user-attachments/assets/598e8778-7393-4bc9-b3e2-817747d60ca1" />
+
 
 ## 10. References
 
