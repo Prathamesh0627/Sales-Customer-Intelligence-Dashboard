@@ -37,14 +37,7 @@ The project uses a synthetic dataset designed to simulate an Indian e-commerce m
 - **`customers.csv`:** Customer demographics, geography, segments, acquisition details, and customer-level aggregates.
 - **`products.csv`:** Product catalog details, categories, brands, prices, costs, and product attributes.
 - **`orders.csv`:** Order dates, order status, totals, shipping details, discounts, and sales-channel information.
-- **`order_items.csv`:** Product-level quantities, revenue, costs, and profit for each order line.
 - **`payments.csv`:** Payment methods, payment statuses, amounts paid, transaction fees, and refunds.
-- **`shipments.csv`:** Shipment and delivery dates, warehouse details, and delivery-delay indicators.
-- **`returns.csv`:** Returned items, return reasons, refund amounts, and return statuses.
-- **`customer_reviews.csv`:** Product ratings, review sentiment, and verified-purchase information.
-- **`marketing_campaigns.csv`:** Campaign channels, funnel metrics, costs, attributed revenue, and ROI.
-- **`data_dictionary.csv`:** Column-level descriptions for the dataset tables.
-- **`dataset_validation_report.csv`:** Automated data-quality validation results.
 
 The dataset contains **synthetic records only**. It does not represent real customers, transactions, or the performance of an actual company.
 
@@ -127,8 +120,7 @@ Building this project provides practical experience with CSV data import, Power 
 The repository can include the following project assets, depending on what you choose to publish:
 
 - Power BI report file (**`.pbix`**)
-- Dataset CSV files, such as `customers.csv`, `products.csv`, `orders.csv`, `order_items.csv`, and `payments.csv`
-- Related supporting CSV files for shipments, returns, reviews, and marketing campaigns
+- Dataset CSV files, such as `customers.csv`, `products.csv`, `orders.csv`, and `payments.csv`
 - **`README.md`** — project overview and dashboard documentation
 - **`dashboard_screenshots/`** — dashboard preview images
 
@@ -150,7 +142,8 @@ E-Commerce-Analytics/
 
 ### 1. Executive Sales & Profit Overview
 
-![Executive Sales and Profit Overview](dashboard_screenshots/sales_profit_overview.png)
+<img width="1333" height="747" alt="1_Sales   Profit Overview" src="https://github.com/user-attachments/assets/0f88ccc1-e76e-4a09-96a2-1b259ac84587" />
+
 
 ### 2. Customer Insights & Regional Analysis
 
